@@ -1,0 +1,12 @@
+{
+    "Add admin": "เพิ่มแอดมินใหม่",
+    "Name": "ชื่อ",
+    "Email": "อีเมล",
+    "Last Logged In": "เข้าระบบครั้งสุดท้ายเมื่อ",
+    "Role": "หน้าที่",
+    "Admin": "แอดมิน",
+    "Admin Info": "รายละเอียดแอดมิน",
+    "Action": "",
+    "Delete Admin Success": "ลบแอดมินสำเร็จ",
+    "Reset Admin Password Success": "รีเซ็ตรหัสผ่านแอดมินสำเร็จ"
+}
