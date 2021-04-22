@@ -1,6 +1,6 @@
 {
-    "Internal": "ระบบเกิดข้อผิดพลาด โปรดลองใหม่อีกครั้ง",
-    "Unauthorized": "อีเมลหรือรหัสผ่านไม่ถูกต้อง",
-    "EmailNotFound": "ไม่พบอีเมล์ในระบบ โปรลองใหม่อีกครั้ง",
-    "ResetTokenNotFound": "ไม่พบ Reset Token"
+  "Internal": "ระบบเกิดข้อผิดพลาด โปรดลองใหม่อีกครั้ง",
+  "Unauthorized": "อีเมลหรือรหัสผ่านไม่ถูกต้อง",
+  "EmailNotFound": "ไม่พบอีเมลในระบบ โปรดลองใหม่อีกครั้ง",
+  "ResetTokenNotFound": "Reset Token Was Not Found"
 }
