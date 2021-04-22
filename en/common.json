@@ -9,5 +9,6 @@
   "Reset Password": "Reset Password",
   "Are you sure to reset password": "Are you sure to reset password?",
   "Delete account success": "Account Deleted",
-  "Are you sure to delete this account": "Are you sure to delete this admin?"
+  "Are you sure to delete this account": "Are you sure to delete this admin?",
+  "Not found": "Not found"
 }

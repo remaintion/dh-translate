@@ -30,5 +30,6 @@
   "Delete": "ลบ",
   "Reset Password": "ตั้งรหัสผ่านใหม่",
   "Edit User": "แก้ไข",
-  "Save": "บันทึก"
+  "Save": "บันทึก",
+  "Update Admin Success": "บันทึกสำเร็จ"
 }

@@ -1,13 +1,13 @@
 {
-  "Edit Admin": "แก้ไขแอดมิน",
-  "User Info": "ข้อมูลส่วนตัว",
-  "First Name": "ชื่อ",
-  "Last Name": "นามสกุล",
-  "Email": "อีเมล",
-  "Mobile": "เบอร์โทรศัพท์มือถือ",
-  "Permission": "สิทธิ์การเข้าถึง",
-  "Role": "ตำแหน่ง",
-  "Delete": "ลบ",
-  "Reset Password": "ตั้งรหัสผ่านใหม่",
-  "Edit User": "แก้ไข"
+    "Edit Admin": "แก้ไขแอดมิน",
+    "User Info": "ข้อมูลส่วนตัว",
+    "First Name": "ชื่อ",
+    "Last Name": "นามสกุล",
+    "Email": "อีเมล",
+    "Mobile": "เบอร์โทรศัพท์มือถือ",
+    "Permission": "สิทธิ์การเข้าถึง",
+    "Role": "ตำแหน่ง",
+    "Delete": "ลบ",
+    "Reset Password": "ตั้งรหัสผ่านใหม่",
+    "Edit User": "แก้ไข"
 }

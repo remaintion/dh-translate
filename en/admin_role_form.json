@@ -1,12 +1,12 @@
 {
-  "Roles": "Roles",
-  "Role": "Role",
-  "Name": "Name",
-  "Create": "Create",
-  "Save": "Save",
-  "Clear All": "Clear All",
-  "Select All": "Select All",
-  "Permissions": "Permissions",
-  "Add Role": "Add Role",
-  "Update AdminRole Success": "Admin Role Updated"
+    "Roles": "Roles",
+    "Role": "Role",
+    "Name": "Name",
+    "Create": "Create",
+    "Save": "Save",
+    "Clear All": "Clear All",
+    "Select All": "Select All",
+    "Permissions": "Permissions",
+    "Add Role": "Add Role",
+    "Update AdminRole Success": "Admin Role Updated"
 }

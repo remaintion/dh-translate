@@ -9,5 +9,6 @@
   "Reset Password": "ตั้งรหัสผ่านใหม่",
   "Are you sure to reset password": "คุณต้องการที่จะตั้งรหัสผ่านใหม่",
   "Delete account success": "ลบบัญชีผู้ใช้สำเร็จ",
-  "Are you sure to delete this account": "คุณต้องการที่จะลบบัญชีผู้ใช้นี้"
+  "Are you sure to delete this account": "คุณต้องการที่จะลบบัญชีผู้ใช้นี้",
+  "Not found": "ไม่พบข้อมูล"
 }
