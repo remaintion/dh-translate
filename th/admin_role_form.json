@@ -1,14 +1,14 @@
 {
-    "Roles": "ตำแหน่งทั้งหมด",
-    "Role": "ตำแหน่ง",
-    "Name": "ชื่อตำแหน่ง",
-    "Create": "สร้าง",
-    "Save": "บันทึก",
-    "Clear All": "ล้างค่าที่เลือก",
-    "Select All": "เลือกทั้งหมด",
-    "Permissions": "การเข้าถึงทั้งหมด",
-    "Add Role": "เพิ่มตำแหน่งใหม่",
-    "Update AdminRole Success": "แก้ไขข้อมูลสำเร็จ",
-    "Delete AdminRole Success": "ลบข้อมูลสำเร็จ",
-    "Edit Role": "แก้ไข"
+  "Roles": "ตำแหน่งทั้งหมด",
+  "Role": "ตำแหน่ง",
+  "Name": "ชื่อตำแหน่ง",
+  "Create": "สร้าง",
+  "Save": "บันทึก",
+  "Clear All": "ล้างค่าที่เลือกทั้งหมด",
+  "Select All": "เลือกทั้งหมด",
+  "Permissions": "สิทธิ์การเข้าถึง",
+  "Add Role": "เพิ่มตำแหน่งใหม่",
+  "Update AdminRole Success": "แก้ไขข้อมูลสำเร็จ",
+  "Delete AdminRole Success": "ลบข้อมูลสำเร็จ",
+  "Edit Role": "แก้ไข"
 }
