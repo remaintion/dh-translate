@@ -5,5 +5,14 @@
   "City": "จังหวัด",
   "Zone": "ภาค",
   "Status": "สถานะ",
-  "Actions": "การกระทำ"
+  "Actions": "",
+  "active": "ใช้งาน",
+  "inactive": "ไม่ใช้งาน",
+  "edit": "แก้ไข",
+  "ok": "ตกลง",
+  "cancel": "ยกเลิก",
+  "are you sure to": "คุณแน่ใจที่จะ",
+  "deactivate": "หยุดใช้งาน",
+  "activate": "ใช้งาน",
+  "central": "ภาคกลาง"
 }

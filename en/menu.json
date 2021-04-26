@@ -3,6 +3,7 @@
     "Admins": "Admins",
     "All Admins": "All Admins",
     "Add Admin": "Add Admin",
+    "Edit Admin": "Edit Admin",
     "Roles": "Roles",
     "All Roles": "All Roles",
     "Add Role": "Add Role",
@@ -10,5 +11,7 @@
     "Service Areas": "Service Areas",
     "Service Area": "Service Area",
     "All Service Areas": "All Service Areas",
-    "Edit Position": "Edit Position"
+    "Edit Position": "Edit Position",
+    "add service area": "Add Service Area",
+    "edit service area": "Edit Service Area"
 }

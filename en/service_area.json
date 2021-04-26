@@ -5,5 +5,14 @@
   "City": "City",
   "Zone": "Zone",
   "Status": "Status",
-  "Actions": "Actions"
+  "Actions": "",
+  "active": "Active",
+  "inactive": "Inactive",
+  "edit": "Edit",
+  "ok": "OK",
+  "cancel": "Cancel",
+  "are you sure to": "Are you sure to",
+  "deactivate": "deactivate",
+  "activate": "activate",
+  "central": "Central"
 }
