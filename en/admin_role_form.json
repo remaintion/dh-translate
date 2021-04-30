@@ -1,14 +1,16 @@
 {
-    "Roles": "Roles",
-    "Role": "Role",
-    "Name": "Name",
-    "Create": "Create",
-    "Save": "Save",
-    "Clear All": "Clear All",
-    "Select All": "Select All",
-    "Permissions": "Permissions",
-    "Add Role": "Add Role",
-    "Update AdminRole Success": "Admin Role Updated",
-    "Delete AdminRole Success": "Admin Role Deleted",
-    "Edit Role": "Edit"
+  "Roles": "Roles",
+  "Role": "Role",
+  "Name": "Name",
+  "Create": "Create",
+  "Save": "Save",
+  "Clear All": "Clear All",
+  "Select All": "Select All",
+  "Permissions": "Permissions",
+  "Add Role": "Add Role",
+  "Update AdminRole Success": "Admin Role Updated",
+  "Delete AdminRole Success": "Admin Role Deleted",
+  "Edit Role": "Edit",
+  "Please fill role name": "Please fill role name",
+  "Please select permission": "Please select permission"
 }

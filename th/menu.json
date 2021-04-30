@@ -8,9 +8,12 @@
   "All Roles": "ตำแหน่งทั้งหมด",
   "Admin Roles": "ตำแหน่งของแอดมิน",
   "Add Role": "เพิ่มตำแหน่งใหม่",
+  "Edit Role": "แก้ไขตำแหน่ง",
   "Home": "หน้าแรก",
+  "Service Area": "พื้นที่ให้บริการทั้งหมด",
   "Service Areas": "พื้นที่ให้บริการ",
-  "Service Area": "พื้นที่ให้บริการ",
   "All Service Areas": "พื้นที่ให้บริการทั้งหมด",
-  "Edit Position": "จัดลำดับพื้นที่ให้บริการ"
+  "Edit Service Area Positions": "แก้ไขลำดับพื้นที่ให้บริการ",
+  "add service area": "เพิ่มพื้นที่ให้บริการ",
+  "edit service area": "แก้ไขพื้นที่ให้บริการ"
 }

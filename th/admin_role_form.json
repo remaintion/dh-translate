@@ -10,5 +10,7 @@
   "Add Role": "เพิ่มตำแหน่งใหม่",
   "Update AdminRole Success": "แก้ไขข้อมูลสำเร็จ",
   "Delete AdminRole Success": "ลบข้อมูลสำเร็จ",
-  "Edit Role": "แก้ไข"
+  "Edit Role": "แก้ไข",
+  "Please fill role name": "กรุณากรอกชื่อตำแหน่ง",
+  "Please select permission": "กรุณาเลือกสิทธิ์การเข้าถึง"
 }

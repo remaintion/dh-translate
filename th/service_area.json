@@ -6,13 +6,7 @@
   "Zone": "ภูมิภาค",
   "Status": "สถานะ",
   "Actions": "",
-  "active": "ใช้งาน",
-  "inactive": "ไม่ใช้งาน",
-  "edit": "แก้ไข",
-  "ok": "ตกลง",
-  "cancel": "ยกเลิก",
-  "are you sure to": "คุณแน่ใจที่จะ",
-  "deactivate": "หยุดใช้งาน",
-  "activate": "ใช้งาน",
-  "central": "ภาคกลาง"
+  "Active": "ใช้งาน",
+  "Inactive": "ปิดชั่วคราว",
+  "Edit Position": "จัดลำดับ"
 }

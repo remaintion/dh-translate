@@ -1,0 +1,19 @@
+{
+  "add service area": "เพิ่มพื้นที่ให้บริการ",
+  "area name (th)": "ชื่อพื้นที่ให้บริการ (ภาษาไทย)",
+  "thai name": "ชื่อภาษาไทย",
+  "area name (en)": "ชื่อพื้นที่ให้บริการ (ภาษาอังกฤษ)",
+  "english name": "ชื่อภาษาอังกฤษ",
+  "city": "จังหวัด",
+  "select city": "เลือกจังหวัด",
+  "location": "ตำแหน่ง",
+  "search location": "ค้นหาตำแหน่ง",
+  "add": "เพิ่ม",
+  "please fill thai name": "กรุณาใส่ชื่อภาษาไทย",
+  "please fill english name": "กรุณาใส่ชื่อภาษาไทย",
+  "not match with condition": "ข้อมูลที่กรอกไม่ตรงกับเงื่อนไข",
+  "please select city": "กรุณาเลือกจังหวัด",
+  "please select location": "กรุณาเลือกตำแหน่ง",
+  "save": "บันทึก",
+  "edit service area": "แก้ไขพื้นที่ให้บริการ"
+}

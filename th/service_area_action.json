@@ -1,0 +1,15 @@
+{
+    "Are you sure to deactivate": "คุณต้องการที่จะปิดชั่วคราว",
+    "Are you sure to activate": "คุณต้องการที่จะเปิดใช้งาน",
+    "Are you sure to delete": "คุณต้องการที่จะลบ",
+    "Deactivate service area success": "ปิดชั่วคราวแล้ว",
+    "Activate service area success": "เปิดใช้งานแล้ว",
+    "Delete service area success": "ลบสำเร็จ",
+    "View": "ดู",
+    "Edit": "แก้ไข",
+    "Cancel": "ปิด",
+    "Delete": "ลบ",
+    "Confirm": "ยืนยัน",
+    "deactivate": "ปิดชั่วคราว",
+    "activate": "ใช้งาน"
+}

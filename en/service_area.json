@@ -6,13 +6,7 @@
   "Zone": "Zone",
   "Status": "Status",
   "Actions": "",
-  "active": "Active",
-  "inactive": "Inactive",
-  "edit": "Edit",
-  "ok": "OK",
-  "cancel": "Cancel",
-  "are you sure to": "Are you sure to",
-  "deactivate": "deactivate",
-  "activate": "activate",
-  "central": "Central"
+  "Active": "Active",
+  "Inactive": "Inactive",
+  "Edit Position": "Edit Position"
 }
