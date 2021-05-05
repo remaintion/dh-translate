@@ -1,12 +1,12 @@
 {
-    "Permissions": "Permissions",
-    "Clear All": "Clear All",
-    "Select All": "Select All",
-    "create": "Create",
-    "view": "View",
-    "edit": "Edit",
-    "delete": "View",
-    "edit_position": "Edit Position",
-    "reset_password": "Reset Password",
-    "activate": "Activate/Deactivate"
+  "Permissions": "Permissions",
+  "Clear All": "Clear All",
+  "Select All": "Select All",
+  "create": "Create",
+  "view": "View",
+  "edit": "Edit",
+  "delete": "Delete",
+  "edit_position": "Edit Position",
+  "reset_password": "Reset Password",
+  "activate": "Activate/Deactivate"
 }

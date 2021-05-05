@@ -1,7 +1,7 @@
 {
   "City": "City",
   "Please select city": "Please Select City",
-  "Update Cities order success": "Update Cities Order Success",
-  "Update Service Areas order success": "Update Service Areas Order Success",
+  "Update Cities order success": "Cities Order Updated",
+  "Update Service Areas order success": "Service Areas Order Updated",
   "Edit Service Areas Position": "Edit Service Areas Position"
 }
