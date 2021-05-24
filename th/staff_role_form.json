@@ -1,0 +1,19 @@
+{
+  "Roles": "ตำแหน่งทั้งหมด",
+  "Role": "ตำแหน่ง",
+  "Name": "ชื่อตำแหน่ง",
+  "Companies": "บริษัท",
+  "Create": "สร้าง",
+  "Save": "บันทึก",
+  "Add": "สร้าง",
+  "Clear All": "ล้างค่าที่เลือกทั้งหมด",
+  "Select All": "เลือกทั้งหมด",
+  "Permissions": "สิทธิ์การเข้าถึง",
+  "Add Role": "เพิ่มตำแหน่งใหม่",
+  "Update StaffRole Success": "แก้ไขข้อมูลสำเร็จ",
+  "Delete StaffRole Success": "ลบข้อมูลสำเร็จ",
+  "Edit Role": "แก้ไข",
+  "Please fill role name": "กรุณากรอกชื่อตำแหน่ง",
+  "Please select permission": "กรุณาเลือกสิทธิ์การเข้าถึง",
+  "Please select dealership": "กรุณากรอกเลือกบริษัท"
+}

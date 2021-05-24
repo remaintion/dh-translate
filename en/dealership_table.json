@@ -1,0 +1,10 @@
+{
+    "Name": "Name",
+    "Branches": "Branch",
+    "Cars": "Car",
+    "Type": "Type",
+    "Status": "Status",
+    "Actions": "",
+    "local": "LOCAL",
+    "inter": "INTER"
+}

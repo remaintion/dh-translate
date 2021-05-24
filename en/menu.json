@@ -6,6 +6,7 @@
   "Edit Admin": "Edit Admin",
   "Roles": "Roles",
   "All Roles": "All Roles",
+  "Admin Roles": "Admin Roles",
   "Add Role": "Add Role",
   "Edit Role": "Edit Role",
   "Home": "Home",
@@ -14,5 +15,15 @@
   "All Service Areas": "All Service Areas",
   "Edit Service Area Positions": "Edit Position",
   "add service area": "Add Service Area",
-  "edit service area": "Edit Service Area"
+  "edit service area": "Edit Service Area",
+  "Dealerships": "Dealerships",
+  "Company": "Company",
+  "All Companies": "All Companies",
+  "Add Company": "Add Company",
+  "Staff": "Staff",
+  "All Staffs": "All Staffs",
+  "Add Staff": "Add Staff",
+  "Staff Roles": "Staff Roles",
+  "Add Staff Role": "Add Staff Role",
+  "Dealership": "Dealership"
 }
