@@ -47,5 +47,7 @@
   "upload_state.done": "Done!",
   "Save": "Save",
   "Company status": "Company Status",
-  "Car visibility": "Car Status"
+  "Car visibility": "Car Status",
+  "Please fill first name": "Please fill first name",
+  "Please fill last name": "Please fill last name"
 }
