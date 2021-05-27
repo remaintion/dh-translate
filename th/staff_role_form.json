@@ -10,10 +10,10 @@
   "Select All": "เลือกทั้งหมด",
   "Permissions": "สิทธิ์การเข้าถึง",
   "Add Role": "เพิ่มตำแหน่งใหม่",
-  "Update StaffRole Success": "แก้ไขข้อมูลสำเร็จ",
-  "Delete StaffRole Success": "ลบข้อมูลสำเร็จ",
+  "Update StaffRole Success": "แก้ไขตำแหน่งพนักงานสำเร็จ",
+  "Delete StaffRole Success": "ลบตำแหน่งพนักงานสำเร็จ",
   "Edit Role": "แก้ไข",
   "Please fill role name": "กรุณากรอกชื่อตำแหน่ง",
   "Please select permission": "กรุณาเลือกสิทธิ์การเข้าถึง",
-  "Please select dealership": "กรุณากรอกเลือกบริษัท"
+  "Please select dealership": "กรุณากรอกชื่อบริษัท"
 }

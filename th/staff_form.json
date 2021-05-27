@@ -14,16 +14,16 @@
   "Security": "ความปลอดภัย",
   "Password": "รหัสผ่าน",
   "Confirm Password": "ยืนยันรหัสผ่าน",
-  "Invalid password": "รหัสผ่านต้องมีความยาวมากกว่า 8 ตัวอักษรหรือตัวเลข",
-  "Please confirm your password": "โปรดยืนยันรหัสผ่าน",
+  "Invalid password": "รหัสผ่านต้องมีตัวอักษรหรือตัวเลข และมีความยาวมากกว่า 8 หลัก",
+  "Please confirm your password": "กรุณายืนยันรหัสผ่าน",
   "Please fill password": "กรุณากรอกรหัสผ่าน",
   "Password mismatched": "รหัสผ่านไม่ตรงกัน",
-  "Dealership": "ดีลเลอร์",
+  "Dealership": "ร้าน",
   "Company": "บริษัท",
   "Role": "ตำแหน่ง",
   "Select company": "เลือกบริษัท",
   "Select role": "เลือกตำแหน่ง",
   "Save": "สร้าง",
-  "Please select company": "โปรดเลือก Company ของบัญชีนี้",
-  "Please select role": "โปรดเลือก Role ของบัญชีนี้"
+  "Please select company": "กรุณาเลือกบริษัทของบัญชีนี้",
+  "Please select role": "กรุณาเลือกตำแหน่งของบัญชีนี้"
 }

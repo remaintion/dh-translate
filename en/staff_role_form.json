@@ -1,7 +1,7 @@
 {
-  "Roles": "Roles",
+  "Roles": "All Roles",
   "Role": "Role",
-  "Name": "Name",
+  "Name": "Title",
   "Companies": "Companies",
   "Create": "Create",
   "Save": "Save",
@@ -13,7 +13,7 @@
   "Update StaffRole Success": "Staff Role Updated",
   "Delete StaffRole Success": "Staff Role Deleted",
   "Edit Role": "Edit",
-  "Please fill role name": "Please fill role name",
+  "Please fill role name": "Please fill title",
   "Please select permission": "Please select permission",
   "Please select dealership": "Please select dealership"
 }

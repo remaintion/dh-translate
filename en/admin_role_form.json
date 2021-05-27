@@ -1,7 +1,7 @@
 {
-  "Roles": "Roles",
+  "Roles": "All Roles",
   "Role": "Role",
-  "Name": "Name",
+  "Name": "Title",
   "Create": "Create",
   "Save": "Save",
   "Clear All": "Clear All",
@@ -11,6 +11,6 @@
   "Update AdminRole Success": "Admin Role Updated",
   "Delete AdminRole Success": "Admin Role Deleted",
   "Edit Role": "Edit",
-  "Please fill role name": "Please fill role name",
+  "Please fill role name": "Please fill title",
   "Please select permission": "Please select permission"
 }

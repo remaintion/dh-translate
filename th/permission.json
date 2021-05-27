@@ -1,12 +1,12 @@
 {
-    "Permissions": "สิทธิ์การเข้าถึง",
-    "Clear All": "ล้างค่าที่เลือกทั้งหมด",
-    "Select All": "เลือกทั้งหมด",
-    "create": "เพิ่ม",
-    "view": "ดู",
-    "edit": "แก้ไข",
-    "delete": "ลบ",
-    "edit_position": "แก้ไขลำดับ",
-    "reset_password": "รีเซ็ตรหัสผ่าน",
-    "activate": "เปิด/ปิด ชั่วคราว"
+  "Permissions": "สิทธิ์การเข้าถึง",
+  "Clear All": "ล้างค่าที่เลือกทั้งหมด",
+  "Select All": "เลือกทั้งหมด",
+  "create": "สร้าง",
+  "view": "ดู",
+  "edit": "แก้ไข",
+  "delete": "ลบ",
+  "edit_position": "แก้ไขลำดับ",
+  "reset_password": "ตั้งรหัสผ่านใหม่",
+  "activate": "เปิด/ปิด ชั่วคราว"
 }
