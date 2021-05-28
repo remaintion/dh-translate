@@ -49,5 +49,7 @@
   "Company status": "สถานะของร้าน",
   "Car visibility": "สถานะของรถ",
   "Please fill first name": "กรุณากรอกชื่อ",
-  "Please fill last name": "กรุณากรอกนามสกุล"
+  "Please fill last name": "กรุณากรอกนามสกุล",
+  "Invalid email": "อีเมลไม่ถูกต้อง",
+  "Invalid mobile": "เบอร์โทรศัพท์ไม่ถูกต้อง"
 }

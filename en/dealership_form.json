@@ -49,5 +49,7 @@
   "Company status": "Company Status",
   "Car visibility": "Car Status",
   "Please fill first name": "Please fill first name",
-  "Please fill last name": "Please fill last name"
+  "Please fill last name": "Please fill last name",
+  "Invalid email": "Invalid email format",
+  "Invalid mobile": "Invalid mobile number"
 }
