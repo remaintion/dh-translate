@@ -17,13 +17,13 @@
   "Delete dealership success": "ลบร้านสำเร็จ",
   "Deactivate success": "ปิดใช้งานชั่วคราวสำเร็จ",
   "Activate success": "เปิดใช้งานสำเร็จ",
-  "Are you want to delete": "คุณต้องการที่จะลบ?",
-  "Are you want to activate": "คุณต้องการที่จะเปิดใช้งาน?",
-  "Are you want to deactivate": "คุณต้องการที่จะปิดใช้งาน?",
+  "Are you want to delete": "คุณต้องการที่จะลบ",
+  "Are you want to activate": "คุณต้องการที่จะเปิดใช้งาน",
+  "Are you want to deactivate": "คุณต้องการที่จะปิดใช้งาน",
   "Confirm": "ยืนยัน",
   "Cancel": "ยกเลิก",
   "Hide car success": "ซ่อนรถสำเร็จ",
   "Show car success": "แสดงรถสำเร็จ",
-  "Are you want to hide car": "คุณต้องการที่จะซ่อนรถร้านนี้?",
-  "Are you want to show car": "คุณต้องการที่จะแสดงรถร้านนี้?"
+  "Are you want to hide car": "คุณต้องการที่จะซ่อนรถร้านนี้",
+  "Are you want to show car": "คุณต้องการที่จะแสดงรถร้านนี้"
 }
