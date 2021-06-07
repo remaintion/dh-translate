@@ -51,5 +51,6 @@
   "Please fill first name": "Please fill first name",
   "Please fill last name": "Please fill last name",
   "Invalid email": "Invalid email format",
-  "Invalid mobile": "Invalid mobile number"
+  "Invalid mobile": "Invalid mobile number",
+  "Upload": "Upload"
 }
