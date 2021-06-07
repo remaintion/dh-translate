@@ -1,0 +1,12 @@
+{
+  "address_city": "Cities",
+  "admin": "Admin",
+  "admin_permission": "Admin Permission",
+  "admin_role": "Admin Role",
+  "branch": "Branch",
+  "dealership": "Dealership",
+  "service_area": "Service Area",
+  "staff": "Staff",
+  "staff_permission": "Staff Permission",
+  "staff_role": "Staff Role"
+}
