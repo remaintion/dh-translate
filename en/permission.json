@@ -8,5 +8,6 @@
   "delete": "Delete",
   "edit_position": "Edit Position",
   "reset_password": "Reset Password",
-  "activate": "Activate/Deactivate"
+  "activate": "Activate/Deactivate",
+  "hide_car": "Show/Hide Cars"
 }

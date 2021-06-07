@@ -8,5 +8,6 @@
   "delete": "ลบ",
   "edit_position": "แก้ไขลำดับ",
   "reset_password": "ตั้งรหัสผ่านใหม่",
-  "activate": "เปิด/ปิด ชั่วคราว"
+  "activate": "เปิด/ปิด ชั่วคราว",
+  "hide_car": "แสดง/ซ่อนรถ"
 }

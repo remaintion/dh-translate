@@ -1,12 +1,12 @@
 {
-  "address_city": "Cities",
-  "admin": "Admin",
-  "admin_permission": "Admin Permission",
-  "admin_role": "Admin Role",
-  "branch": "Branch",
-  "dealership": "Dealership",
-  "service_area": "Service Area",
-  "staff": "Staff",
-  "staff_permission": "Staff Permission",
-  "staff_role": "Staff Role"
+  "address_city": "เมือง",
+  "admin": "แอดมิน",
+  "admin_permission": "สิทธิ์ของแอดมิน",
+  "admin_role": "ตำแหน่งของแอดมิน",
+  "branch": "สาขา",
+  "dealership": "บริษัท",
+  "service_area": "พื้นที่ให้บริการ",
+  "staff": "พนักงาน",
+  "staff_permission": "สิทธิ์ของพนักงาน",
+  "staff_role": "ตำแหน่งของพนักงาน"
 }
