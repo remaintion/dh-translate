@@ -1,7 +1,7 @@
 {
-  "Are you sure to deactivate": "คุณต้องการที่จะปิดชั่วคราว?",
-  "Are you sure to activate": "คุณต้องการที่จะเปิดใช้งาน?",
-  "Are you sure to delete": "คุณต้องการที่จะลบ?",
+  "Are you sure to deactivate": "คุณต้องการที่จะปิดชั่วคราว",
+  "Are you sure to activate": "คุณต้องการที่จะเปิดใช้งาน",
+  "Are you sure to delete": "คุณต้องการที่จะลบ",
   "Deactivate service area success": "ปิดพื้นที่ให้บริการชั่วคราวสำเร็จ",
   "Activate service area success": "เปิดใช้งานพื้นที่ให้บริการสำเร็จ",
   "Delete service area success": "ลบพื้นที่ให้บริการสำเร็จ",

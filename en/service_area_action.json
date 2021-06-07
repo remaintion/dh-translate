@@ -1,7 +1,7 @@
 {
-  "Are you sure to deactivate": "Are you sure you want to deactivate?",
-  "Are you sure to activate": "Are you sure you want to activate?",
-  "Are you sure to delete": "Are you sure you want to delete?",
+  "Are you sure to deactivate": "Are you sure you want to deactivate",
+  "Are you sure to activate": "Are you sure you want to activate",
+  "Are you sure to delete": "Are you sure you want to delete",
   "Deactivate service area success": "Service Area Deactivated",
   "Activate service area success": "Service Area Activated",
   "Delete service area success": "Service Area Deleted",
