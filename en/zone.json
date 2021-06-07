@@ -1,7 +1,7 @@
 {
     "north": "North",
     "northeast": "Northeast",
-    "western": "Western",
+    "west": "West",
     "central": "Central",
     "east": "East",
     "south": "South"
