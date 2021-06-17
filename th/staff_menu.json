@@ -4,6 +4,12 @@
   "Report": "รายงาน",
   "Staff Management": "จัดการผู้ใช้งาน",
   "Role Management": "จัดการตำแหน่ง",
+  "Branch Management": "จัดการสาขา",
+  "Branch Detail": "ข้อมูลสาขา",
+  "Operation Hours": "เวลาทำการ",
+  "Service Area": "สถานที่รับ/ส่งรถ",
+  "Insurances": "ประกันภัย",
+  "Notifications": "การแจ้งเตือน",
   "Add Role": "เพิ่มตำแหน่งใหม่",
   "Add": "สร้าง",
   "Edit Role": "แก้ไข"
