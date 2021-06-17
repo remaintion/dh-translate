@@ -26,5 +26,7 @@
   "Edit Staff": "แก้ไขพนักงาน",
   "Staff Roles": "ตำแหน่งของพนักงาน",
   "Add Staff Role": "เพิ่มตำแหน่งพนักงานใหม่",
-  "Dealership": "ร้าน"
+  "Dealership": "ร้าน",
+  "Branch": "สาขา",
+  "All Branches": "สาขาทั้งหมด"
 }
