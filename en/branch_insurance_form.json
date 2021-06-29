@@ -6,5 +6,7 @@
   "Default": "Default",
   "Name": "Name",
   "Option": "Option",
-  "Set as default": "Set as default"
+  "Set as default": "Set as default",
+  "Please fill insurance name": "Please fill insurance name",
+  "Please select insurance option": "Please select insurance option"
 }

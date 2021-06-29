@@ -6,5 +6,7 @@
   "Default": "ค่าเริ่มต้น",
   "Name": "ชื่อ",
   "Options": "ความคุ้มครอง",
-  "Set as default": "ตั้งเป็นค่าเริ่มต้น"
+  "Set as default": "ตั้งเป็นค่าเริ่มต้น",
+  "Please fill insurance name": "กรุณากรอกชื่อประกันภัย",
+  "Please select insurance options": "กรุณาเลือกความคุ้มครอง"
 }
