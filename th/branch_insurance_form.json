@@ -3,5 +3,8 @@
   "Add insurance": "เพิ่มประกันภัย",
   "Insurance name": "ชื่อ",
   "Status": "สถานะ",
-  "Default": "ค่าเริ่มต้น"
+  "Default": "ค่าเริ่มต้น",
+  "Name": "ชื่อ",
+  "Options": "ความคุ้มครอง",
+  "Set as default": "ตั้งเป็นค่าเริ่มต้น"
 }
