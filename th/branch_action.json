@@ -1,0 +1,13 @@
+{
+  "Create branch success": "เพิ่มสาขาใหม่สำเร็จ",
+  "Update branch success": "บันทึกสำเร็จ",
+  "Delete branch success": "ลบสำเร็จ",
+  "Update service area success": "บันทึกสำเร็จ",
+  "Delete service area success": "ลบสำเร็จ",
+  "Update branch insurance success": "บันทึกสำเร็จ",
+  "Delete branch insurance success": "ลบสำเร็จ",
+  "Update branch operation success": "บันทึกสำเร็จ",
+  "Delete branch operation success": "ลบสำเร็จ",
+  "Update branch notification success": "บันทึกสำเร็จ",
+  "Delete branch notification success": "ลบสำเร็จ"
+}

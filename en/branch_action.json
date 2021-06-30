@@ -1,0 +1,13 @@
+{
+  "Create branch success": "Create branch success",
+  "Update branch success": "Update branch success",
+  "Delete branch success": "Delete branch success",
+  "Update service area success": "Update service area success",
+  "Delete service area success": "Delete service area success",
+  "Update branch insurance success": "Update branch insurance success",
+  "Delete branch insurance success": "Delete branch insurance success",
+  "Update branch operation success": "Update branch operation success",
+  "Delete branch operation success": "Delete branch operation success",
+  "Update branch notification success": "Update branch operation success",
+  "Delete branch notification success": "Delete branch operation success"
+}

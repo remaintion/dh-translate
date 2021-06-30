@@ -17,8 +17,5 @@
   "Please select province": "กรุณาเลือกจังหวัด",
   "Please select district": "กรุณาเลือกเขต/อำเภอ",
   "Please select sub district": "กรุณาเลือกแขวง/ตำบล",
-  "Please select postcode": "กรุณาเลือกรหัสไปรษณีย์",
-  "Next": "ถัดไป",
-  "Save": "บันทึก",
-  "Edit": "แก้ไข"
+  "Please select postcode": "กรุณาเลือกรหัสไปรษณีย์"
 }

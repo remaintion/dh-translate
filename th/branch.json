@@ -2,9 +2,10 @@
   "All Branches": "สาขาทั้งหมด",
   "Add Branch": "เพิ่มสาขาใหม่",
   "Delete Branch": "ลบสาขา",
+  "Branch Management": "จัดการสาขา",
   "Branch detail": "ข้อมูลสาขา",
   "Operation hours": "เวลาทำการสาขา",
-  "Service area": "สถานที่รับ/ส่ง",
+  "Service area": "สถานที่รับ/ส่งรถ",
   "Insurance": "ประกันภัย",
   "Notification": "การแจ้งเตือน"
 }
