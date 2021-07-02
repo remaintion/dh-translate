@@ -16,5 +16,6 @@
   "Delete account success": "Account Deleted",
   "Are you sure to delete this account": "Are you sure you want to delete this account?",
   "Not found": "Not Found",
-  "Logout": "Logout"
+  "Logout": "Logout",
+  "Inactive": "Inactive"
 }

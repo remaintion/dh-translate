@@ -16,5 +16,6 @@
   "Delete account success": "ลบบัญชีผู้ใช้สำเร็จ",
   "Are you sure to delete this account": "คุณต้องการที่จะลบบัญชีผู้ใช้นี้",
   "Not found": "ไม่พบข้อมูล",
-  "Logout": "ออกจากระบบ"
+  "Logout": "ออกจากระบบ",
+  "Inactive": "ปิดชั่วคราว"
 }
