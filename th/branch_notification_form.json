@@ -1,11 +1,11 @@
 {
-  "Email for notification": "อีเมลรับการแจ้งเตือน",
-  "Phone number for notification": "เบอร์มือถือเพื่อรับการแจ้งเตือน",
+  "Email for notification": "อีเมลสำหรับรับการแจ้งเตือน",
+  "Phone number for notification": "เบอร์มือถือสำหรับรับการแจ้งเตือน",
   "Email": "อีเมล",
   "Phone number": "เบอร์มือถือ",
   "Add email": "เพิ่มอีเมล",
   "Please fill email": "กรุณากรอกอีเมล",
   "Invalid email": "อีเมลต้องมี @ และ .",
-  "Invalid phone number": "เบอร์โทรของคุณไม่ครบถ้วน",
+  "Invalid phone number": "เบอร์มือถือของคุณไม่ครบถ้วน",
   "Add Branch": "สร้างสาขา"
 }

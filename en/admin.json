@@ -1,13 +1,13 @@
 {
-    "Add admin": "Add Admin",
-    "Name": "Name",
-    "Email": "Email",
-    "Last Logged In": "Last Logged In",
-    "Role": "Role",
-    "Admin": "Admin",
-    "Admin Info": "Admin Info",
-    "Add": "Add",
-    "Action": "",
-    "Delete Admin Success": "Admin Deleted",
-    "Reset Admin Password Success": "Password Reset Success"
+  "Add admin": "Add Admin",
+  "Name": "Name",
+  "Email": "Email",
+  "Last Logged In": "Last Logged In",
+  "Role": "Role",
+  "Admin": "Admin",
+  "Admin Info": "Admin Info",
+  "Add": "Add",
+  "Action": "",
+  "Delete Admin Success": "Admin Deleted",
+  "Reset Admin Password Success": "Password Reset Success"
 }

@@ -1,12 +1,12 @@
 {
-	"Add pickup return point": "Add pickup return point",
-	"Edit pickup return point": "Edit pickup return point",
-	"City": "City",
-	"Pickup point": "Pickup point",
-	"Activation": "Activation",
-	"Pickup": "Pickup",
-	"Return": "Return",
-	"Add": "Add",
-	"Save": "Save",
-	"Cancel": "Cancel"
+  "Add pickup return point": "Add pick-up & return point",
+  "Edit pickup return point": "Edit pick-up & return point",
+  "City": "City",
+  "Pickup point": "Pick-up Point",
+  "Activation": "Activation",
+  "Pickup": "Pick-up",
+  "Return": "Return",
+  "Add": "Add",
+  "Save": "Save",
+  "Cancel": "Cancel"
 }

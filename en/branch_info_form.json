@@ -1,7 +1,7 @@
 {
-  "Branch detail": "Branch detail",
-  "Dealership detail": "Dealership detail",
-  "Payment detail": "Payment detail",
+  "Branch detail": "Branch Detail",
+  "Dealership detail": "Dealership Detail",
+  "Payment detail": "Payment Detail",
   "Note": "Note",
   "Dealership": "Dealership",
   "Name": "Name",
@@ -9,13 +9,13 @@
   "Address": "Address",
   "Province": "Province",
   "District": "District",
-  "Sub district": "Sub district",
+  "Sub district": "Sub-District",
   "Postcode": "Postcode",
   "Please fill branch name": "Please fill branch name",
-  "Please fill branch name english": "Please fill branch name english",
+  "Please fill branch name english": "Please fill branch name in English",
   "Please fill address": "Please fill address",
   "Please select province": "Please select province",
   "Please select district": "Please select district",
-  "Please select sub district": "Please select sub district",
+  "Please select sub district": "Please select sub-district",
   "Please select postcode": "Please select postcode"
 }

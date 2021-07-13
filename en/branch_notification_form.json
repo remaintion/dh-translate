@@ -1,11 +1,11 @@
 {
-  "Email for notification": "Email for notification",
-  "Phone number for notification": "Phone number for notification",
+  "Email for notification": "Email Notification",
+  "Phone number for notification": "Mobile Phone Notification",
   "Email": "Email",
-  "Phone number": "Phone number",
-  "Add email": "Add email",
+  "Phone number": "Mobile Number",
+  "Add email": "Add Email",
   "Please fill email": "Please fill email",
-  "Invalid email": "Invalid email",
-  "Invalid phone number": "Invalid phone number",
+  "Invalid email": "Invalid Email",
+  "Invalid phone number": "Invalid Mobile Number",
   "Add Branch": "Add Branch"
 }

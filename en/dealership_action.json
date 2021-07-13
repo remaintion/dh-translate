@@ -17,13 +17,13 @@
   "Delete dealership success": "Dealership Deleted",
   "Deactivate success": "Deactivate Success",
   "Activate success": "Activate success",
-  "Are you want to delete": "Are you sure you want to delete",
-  "Are you want to activate": "Are you sure you want to activate",
-  "Are you want to deactivate": "Are you sure you want to deactivate",
+  "Are you want to delete": "Are you sure you want to delete?",
+  "Are you want to activate": "Are you sure you want to activate?",
+  "Are you want to deactivate": "Are you sure you want to deactivate?",
   "Confirm": "Confirm",
   "Cancel": "Cancel",
   "Hide car success": "Hide car success",
   "Show car success": "Show car success",
-  "Are you want to hide car": "Are you sure you want to hide car",
-  "Are you want to show car": "Are you sure you want to show car"
+  "Are you want to hide car": "Are you sure you want to hide car?",
+  "Are you want to show car": "Are you sure you want to show car?"
 }

@@ -1,9 +1,9 @@
 {
-	"Service area": "Service area",
-	"Add service area": "Add service area",
-	"Service area name": "Service area name",
-	"City name": "City name",
-	"Activation": "Activation",
-	"Pickup": "Pickup",
-	"Return": "Return"
+  "Service area": "Service Area",
+  "Add service area": "Add Service Area",
+  "Service area name": "Service Area Name",
+  "City name": "City Name",
+  "Activation": "Activation",
+  "Pickup": "Pick-up",
+  "Return": "Return"
 }
