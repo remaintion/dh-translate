@@ -1,0 +1,9 @@
+{
+	"Car maintenance": "รายการซ่อมบำรุง",
+	"Add car maintenance": "เพิ่มรายการซ่อมบำรุง",
+	"Edit car maintenance": "แก้ไขรายการซ่อมบำรุง",
+	"Please select maintained date": "วันที่ทำการซ่อมบำรุง",
+	"Please fill services": "กรุณากรอกรายการซ่อมบำรุง",
+	"Services placeholder": "เช่น เปลี่ยนยาง, เปลี่ยนน้ำมันเครื่อง",
+	"Please fill mileage": "กรุณากรอกเลขไมล์"
+}

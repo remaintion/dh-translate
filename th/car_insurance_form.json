@@ -1,0 +1,9 @@
+{
+	"Please fill date begin": "กรุณาเลือกวันเริ่มต้นความคุ้มครอง",
+	"Please fill date end": "กรุณาเลือกวันสิ้นสุดความคุ้มครอง",
+	"Please fill insurance company": "กรุณากรอกบริษัทประกันภัย",
+	"Please select genre": "กรุณาเลือกชนิดประกัน",
+	"Car insurance": "ประกันภัยของรถ",
+	"Add car insurance": "เพิ่มรายการประกันภัย",
+	"Edit car insurance": "แก้ไขรายการประกันภัย"
+}
