@@ -1,0 +1,5 @@
+{
+	"Car approval rejected": "Set car state to rejected",
+	"Car approval approved": "Set car state to approved",
+	"Car approval requested": "Set car state to requested"
+}
