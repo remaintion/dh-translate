@@ -6,6 +6,7 @@
   "Dealership / Branch": "บริษัท / สาขา",
   "Status": "สถานะ",
   "Add Car": "เพิ่มรถ",
-  "Verified": "Verified",
-  "Unverified": "Unverified"
+  "Verified": "อนุมัติแล้ว",
+  "Unverified": "รอตรวจสอบ",
+  "Setting": "ตั้งค่า"
 }
