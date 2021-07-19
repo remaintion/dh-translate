@@ -1,0 +1,11 @@
+{
+	"Add car generation": "เพิ่มโฉมรถยนต์",
+	"Edit car generation": "แก้ไขโฉมรถยนต์",
+	"Car generation": "โฉมรถยนต์",
+	"Name": "ชื่อโฉม",
+	"Year begin": "ปีที่เริ่มโฉม",
+	"Year end": "ปีสุดท้ายของโฉม",
+	"Please fill name": "กรุณากรอกชื่อโฉม",
+	"Please fill year begin": "กรุณากรอกปีที่เริ่มโฉม",
+	"Please fill year end": "กรุณากรอกปีสุดท้ายของโฉม"
+}
