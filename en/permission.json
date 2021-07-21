@@ -9,5 +9,7 @@
   "edit_position": "Edit Position",
   "reset_password": "Reset Password",
   "activate": "Activate/Deactivate",
-  "hide_car": "Show/Hide Cars"
+  "hide_car": "Show/Hide Cars",
+  "transfer": "Transfer car between branches",
+  "approval": "Car listing approval"
 }

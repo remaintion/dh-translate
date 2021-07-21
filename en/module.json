@@ -8,5 +8,7 @@
   "service_area": "Service Area",
   "staff": "Staff",
   "staff_permission": "Staff Permission",
-  "staff_role": "Staff Role"
+  "staff_role": "Staff Role",
+  "car": "Car Listing",
+  "car_make": "Car Makes"
 }
