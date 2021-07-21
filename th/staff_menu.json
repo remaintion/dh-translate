@@ -13,5 +13,10 @@
   "Add Role": "เพิ่มตำแหน่งใหม่",
   "Add": "สร้าง",
   "Edit Role": "แก้ไข",
-  "Save": "บันทึก"
+  "Save": "บันทึก",
+  "Car And Price Management": "จัดการรถและตั้งราคา",
+  "Car Management": "จัดการรถยนต์",
+  "Price Management": "จัดการรูปแบบราคา",
+  "Operations": "ค่าล่วงเวลาและค่าส่ง",
+  "Stop Sale Management": "รายการปิดการขาย"
 }
