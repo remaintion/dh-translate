@@ -17,5 +17,6 @@
   "Are you sure to delete this account": "คุณต้องการที่จะลบบัญชีผู้ใช้นี้",
   "Not found": "ไม่พบข้อมูล",
   "Logout": "ออกจากระบบ",
-  "Inactive": "ปิดชั่วคราว"
+  "Inactive": "ปิดชั่วคราว",
+  "Click or drag file to this area to upload": "คลิก หรือลากไฟล์มาวาง เพิ่ออัพโหลด"
 }
