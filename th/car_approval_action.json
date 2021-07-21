@@ -1,5 +1,11 @@
 {
-	"Car approval rejected": "ปฏิเศษรถแล้ว",
+	"Car approval rejected": "ปฏิเสธรถแล้ว",
 	"Car approval approved": "อนุมัติรถแล้ว",
-	"Car approval requested": "ได้รับคำร้องการตรวจสอบรถแล้ว"
+	"Car approval requested": "ได้รับคำร้องการตรวจสอบรถแล้ว",
+	"Confirm to Approve": "ได้ถูกตรวจสอบแล้ว",
+	"Confirm to Request": "ได้ขออนุมัติรถแล้ว",
+	"Confirm to Reject": "ได้ถูกปฏิเสธแล้ว",
+	"Approve": "อนุมัติ",
+	"Reject": "ปฏิเสธ",
+	"Request": "ขออนุมัติ"
 }
