@@ -8,5 +8,10 @@
   "Add Car": "Add Car",
   "Verified": "Verified",
   "Unverified": "Unverified",
-  "Setting": "Setting"
+  "Setting": "Setting",
+  "approved": "Approved",
+  "created": "Created",
+  "requested": "Requested",
+  "rejected": "Rejected",
+  "Cars": "Car"
 }

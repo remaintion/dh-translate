@@ -1,5 +1,5 @@
 {
-  "Photo": "Photo",
+  "Photo": "รูป",
   "License plate": "ป้ายทะเบียน",
   "Model": "รุ่น",
   "Generation": "โฉมรถ",
@@ -8,5 +8,10 @@
   "Add Car": "เพิ่มรถ",
   "Verified": "อนุมัติแล้ว",
   "Unverified": "รอตรวจสอบ",
-  "Setting": "ตั้งค่า"
+  "Setting": "ตั้งค่า",
+  "approved": "อนุมัติแล้ว",
+  "created": "Created",
+  "requested": "รอตรวจสอบ",
+  "rejected": "ถูกปฏิเสธแล้ว",
+  "Cars": "จัดการรถยนต์"
 }
