@@ -7,5 +7,8 @@
 	"Confirm to Reject": "ได้ถูกปฏิเสธแล้ว",
 	"Approve": "อนุมัติ",
 	"Reject": "ปฏิเสธ",
-	"Request": "ขออนุมัติ"
+	"Request": "ขออนุมัติ",
+	"requested": "รอตรวจสอบ",
+	"approved": "อนุมัติแล้ว",
+	"rejected": "ปฏิเสธแล้ว"
 }
