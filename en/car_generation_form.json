@@ -5,14 +5,8 @@
 	"Name": "Name",
 	"Year begin": "Year begin",
 	"Year end": "Year end",
-<<<<<<< HEAD
-	"Please fill name": "กรุณากรอกชื่อโฉม",
-	"Please fill year begin": "กรุณากรอกปีที่เริ่มโฉม",
-	"Please fill year end": "กรุณากรอกปีสุดท้ายของโฉม",
-=======
 	"Please fill name": "Please fill name",
 	"Please fill year begin": "Please fill year begin",
 	"Please fill year end": "Please fill year end",
->>>>>>> c5a078a646fe3020572f5be3328aae1154d4c081
 	"Present": "Present"
 }
