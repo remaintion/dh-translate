@@ -18,5 +18,11 @@
   "Car Management": "Car Management",
   "Price Management": "Price Management",
   "Operations": "Operations",
-  "Stop Sale Management": "Stop Sale Management"
+  "Stop Sale Management": "Stop Sale Management",
+  "Booking": "Booking",
+  "Setting": "Setting",
+  "Branch Details": "Branch Details",
+  "Branch Operation": "Branch Operation",
+  "Branch Service Area": "Branch Service Area",
+  "Branch Notification": "Branch Notification"
 }
