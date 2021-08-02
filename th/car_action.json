@@ -1,0 +1,15 @@
+{
+  "Create car success": "สร้่างรถยนต์ใหม่สำเร็จ",
+  "Update car success": "บันทึกสำเร็จ",
+  "Delete car success": "ลบรถยนต์สำเร็จ",
+  "Update car license success": "บันทึกสำเร็จ",
+  "Create car insurance success": "สร้่างประกันภัยของรถสำเร็จ",
+  "Update car insurance success": "บันทึกสำเร็จ",
+  "Delete car insurance success": "ลบประกันภัยสำเร็จ",
+  "Create car maintenance success": "สร้่างรายการซ่อมบำรุงสำเร็จ",
+  "Update car maintenance success": "บันทึกสำเร็จ",
+  "Delete car maintenance success": "ลบรายการซ่อมบำรุงสำเร็จ",
+  "Create car branch insurance success": "สร้่างแพ็คเกจประกันภัยสำเร็จ",
+  "Update car branch insurance success": "บันทึกสำเร็จ",
+  "Delete car branch insurance success": "ลบแพ็คเกจประกันภัยสำเร็จ"
+}
