@@ -13,5 +13,6 @@
   "created": "Created",
   "requested": "Requested",
   "rejected": "Rejected",
-  "Cars": "Car"
+  "Cars": "Car",
+  "Branch": "Branch"
 }
