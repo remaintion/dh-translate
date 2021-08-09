@@ -14,5 +14,6 @@
   "requested": "Requested",
   "rejected": "Rejected",
   "Cars": "Car",
-  "Branch": "Branch"
+  "Branch": "Branch",
+  "Dealership": "Dealership"
 }
