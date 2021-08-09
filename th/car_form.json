@@ -57,5 +57,7 @@
   "Add Car": "เพิ่มรถยนต์",
   "History": "ประวัติการแก้ไข",
   "Create Car": "สร้างรถยนต์",
-  "Present": "ปัจจุบัน"
+  "Present": "ปัจจุบัน",
+  "Drivetrain System": "ระบบขับเคลื่อน",
+  "Engine System": "ความจุเครื่องยนต์"
 }
