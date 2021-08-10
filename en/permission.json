@@ -11,5 +11,10 @@
   "activate": "Activate/Deactivate",
   "hide_car": "Show/Hide Cars",
   "transfer": "Transfer car between branches",
-  "approval": "Car listing approval"
+  "approval": "Car listing approval",
+  "manage_admin": "Admin Management",
+  "manage_staff": "Staff Management",
+  "manage_car": "Car Management",
+  "manage_city": "Province Management",
+  "manage_dealership": "Dealership Management"
 }
