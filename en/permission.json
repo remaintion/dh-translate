@@ -16,5 +16,6 @@
   "manage_staff": "Staff Management",
   "manage_car": "Car Management",
   "manage_city": "Province Management",
-  "manage_dealership": "Dealership Management"
+  "manage_dealership": "Dealership Management",
+  "other": "Other"
 }

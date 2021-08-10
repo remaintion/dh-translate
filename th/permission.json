@@ -16,5 +16,6 @@
   "manage_staff": "จัดการพนักงาน",
   "manage_car": "จัดการรถยนต์",
   "manage_city": "จัดการจังหวัด",
-  "manage_dealership": "จัดการบริษัทรถเช่า"
+  "manage_dealership": "จัดการบริษัทรถเช่า",
+  "other": "จัดการอื่นๆ"
 }
