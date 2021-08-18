@@ -34,5 +34,8 @@
   "Cars": "รถยนต์",
   "Car": "รถยนต์",
   "All Cars": "รถยนต์ทั้งหมด",
-  "Add Car": "เพิ่มรถยนต์"
+  "Add Car": "เพิ่มรถยนต์",
+  "Pricing Group": "รูปแบบราคา",
+  "Pricing Group Management": "จัดการรูปแบบราคา",
+  "Add Pricing Group": "เพิ่มรูปแบบราคา"
 }
