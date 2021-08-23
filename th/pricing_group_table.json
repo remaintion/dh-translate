@@ -4,5 +4,9 @@
   "Name": "ชื่อ",
   "Date Period": "วันที่ใช้",
   "Kind": "ประเภทราคาที่เปิดใช้",
-  "Total Cars": "จำนวนรถ"
+  "Total Cars": "จำนวนรถ",
+  "Edit pricing": "ปรับราคารถ",
+  "Edit pricing group": "แก้ไขแบบราคา",
+  "Are you sure to deactivate": "คุณต้องการเลิกใช้งาน",
+  "Deactivate": "เลิกใช้งาน"
 }
