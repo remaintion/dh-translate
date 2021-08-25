@@ -8,7 +8,9 @@
   "Edit pricing": "ปรับราคารถ",
   "Edit pricing group": "แก้ไขแบบราคา",
   "Are you sure to deactivate": "คุณต้องการเลิกใช้งาน",
-  "Deactivate": "เลิกใช้งาน",
+  "Are you sure to activate": "คุณต้องการใช้งาน",
+  "deactivate": "เลิกใช้งาน",
+  "activate": "ใช้งาน",
   "Daily": "รายวัน",
   "Monthly": "รายเดือน"
 }
