@@ -1,5 +1,6 @@
 {
   "Create pricing group success": "สร้างรูปแบบราคาสำเร็จ",
   "Activate pricing group success": "เปิดใช้งานรูปแบบราคาสำเร็จ",
-  "Deactivate pricing group success": "ปิดใช้งานรูปแบบราคาสำเร็จ"
+  "Deactivate pricing group success": "ปิดใช้งานรูปแบบราคาสำเร็จ",
+  "Update pricing group success": "บันทึกรูปแบบราคาสำเร็จ"
 }
