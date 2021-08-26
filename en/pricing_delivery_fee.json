@@ -1,0 +1,12 @@
+{
+  "Name": "Name",
+  "Province": "Province",
+  "Pickup Price": "Pickup Price",
+  "Return Price": "Return Price",
+  "Details have been changed, please press save to apply": "Details have been changed, please press save to apply",
+  "Save": "Save",
+  "Other service charges": "Other service charges",
+  "Delivery fee": "Delivery fee",
+  "Update pricing delivery fee success": "Update pricing delivery fee success",
+  "Update pricing delivery fee error": "Update pricing delivery fee error"
+}
