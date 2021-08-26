@@ -1,0 +1,12 @@
+{
+  "Name": "ชื่อสถานที่",
+  "Province": "จังหวัด",
+  "Pickup Price": "ราคาส่งรถ",
+  "Return Price": "ราคารับคืนรถ",
+  "Details have been changed, please press save to apply": "มีการเปลี่ยนแปลงรายละเอียดโปรดกดบันทึกเพื่อใช้งาน",
+  "Save": "บันทึก",
+  "Other service charges": "ค่าบริการอื่นๆ",
+  "Delivery fee": "ค่าบริการส่งรถ",
+  "Update pricing delivery fee success": "อัพเดทราคาค่าส่งรถสำเร็จ",
+  "Update pricing delivery fee error": "อัพเดทราคาค่าส่งรถล้มเหลว"
+}
