@@ -1,6 +1,6 @@
 {
-  "unit_bath": "บาท",
-  "unit_hours": "ชั่วโมง",
-  "unit_day": "วัน",
-  "unit_month": "เดือน"
+  "bath": "บาท",
+  "hours": "ชั่วโมง",
+  "day": "วัน",
+  "month": "เดือน"
 }

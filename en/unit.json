@@ -1,6 +1,6 @@
 {
-  "unit_bath": "Bath",
-  "unit_hours": "Hours",
-  "unit_day": "Day",
-  "unit_month": "Month"
+  "bath": "Bath",
+  "hours": "Hours",
+  "day": "Day",
+  "month": "Month"
 }
