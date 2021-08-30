@@ -18,5 +18,8 @@
   "Not found": "Not Found",
   "Logout": "Logout",
   "Inactive": "Inactive",
-  "Click or drag file to this area to upload": "Click or drag file to this area to upload"
+  "Click or drag file to this area to upload": "Click or drag file to this area to upload",
+  "Cost": "Cost",
+  "Margin": "Margin",
+  "Sell Price": "Sell Price"
 }
