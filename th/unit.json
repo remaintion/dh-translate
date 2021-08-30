@@ -2,5 +2,7 @@
   "baht": "บาท",
   "hours": "ชั่วโมง",
   "day": "วัน",
-  "month": "เดือน"
+  "month": "เดือน",
+  "days and more": "วันขึ้นไป",
+  "or equivalent": "หรือเทียบเท่า"
 }
