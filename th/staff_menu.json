@@ -23,5 +23,7 @@
   "Branch Notification": "การแจ้งเตือน",
   "Monthly Pricing Group": "รูปแบบราคารายเดือน",
   "Daily Pricing Group": "รูปแบบราคารายวัน",
-  "Other service charges": "ค่าบริการอื่นๆ"
+  "Other service charges": "ค่าบริการอื่นๆ",
+  "Pricing Overtime": "ค่าบริการนอกเวลาทำการ",
+  "Pricing Delivery Fee": "ค่าบริการส่งรถ"
 }
