@@ -4,5 +4,9 @@
   "Deactivate pricing group success": "Deactivate pricing group success",
   "Update pricing group success": "Update pricing group success",
   "Delete pricing group success": "Delete pricing group success",
-  "Update pricing group priority success": "Update pricing group priority success"
+  "Update pricing group priority success": "Update pricing group priority success",
+  "Create pricing daily success": "Create pricing daily success",
+  "Update pricing daily success": "Update pricing daily success",
+  "Create pricing monthly success": "Create pricing monthly success",
+  "Update pricing monthly success": "Update pricing monthly success"
 }

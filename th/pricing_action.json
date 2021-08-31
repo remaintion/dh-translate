@@ -4,5 +4,9 @@
   "Deactivate pricing group success": "ปิดใช้งานรูปแบบราคาสำเร็จ",
   "Update pricing group success": "บันทึกรูปแบบราคาสำเร็จ",
   "Delete pricing group success": "ลบรูปแบบราคาสำเร็จ",
-  "Update pricing group priority success": "บันทึกลำดับรูปแบบราคาสำเร็จ"
+  "Update pricing group priority success": "บันทึกลำดับรูปแบบราคาสำเร็จ",
+  "Create pricing daily success": "สร้างราคารายวันสำเร็จ",
+  "Update pricing daily success": "บันทึกราคารายวันสำเร็จ",
+  "Create pricing monthly success": "สร้างราตารายเดือน",
+  "Update pricing monthly success": "บันทึกราตารายเดือนสำเร็จ"
 }
