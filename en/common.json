@@ -20,5 +20,8 @@
   "Inactive": "Inactive",
   "Click or drag file to this area to upload": "Click or drag file to this area to upload",
   "activate": "Activate",
-  "deactivate": "Deactivate"
+  "deactivate": "Deactivate",
+  "Cost": "Cost",
+  "Margin": "Margin",
+  "Sell Price": "Sell Price"
 }
