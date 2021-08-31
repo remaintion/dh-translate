@@ -23,5 +23,7 @@
   "deactivate": "Deactivate",
   "Cost": "Cost",
   "Margin": "Margin",
-  "Sell Price": "Sell Price"
+  "Sell Price": "Sell Price",
+  "Are you sure to deactivate": "Are you sure you want to deactivate?",
+  "Are you sure to activate": "Are you sure you want to activate?"
 }
