@@ -9,6 +9,7 @@
   "name": "ชื่อ",
   "brand": "รุ่น",
   "engine": "ขนาดเครื่องยนต์",
+  "acriss": "โมเดลโค้ด",
   "Manual Select": "ทั้งหมด",
   "Select by Group/Brand/Engine": "จัดกลุ่มโดย ชื่อ/รุ่น/ขนาดเครื่องยนต์",
   "Copy from Other Rate": "นำเข้าจากรูปแบบราคาอื่น",
