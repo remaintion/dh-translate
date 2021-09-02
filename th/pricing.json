@@ -1,0 +1,18 @@
+{
+  "Select Car": "เลือกรถยนต์",
+  "Search": "ค้นหา",
+  "Selected": "เลือกแล้ว",
+  "Select": "เลือก",
+  "Imported": "นำเข้าแล้ว",
+  "Import": "นำเข้า",
+  "Number of car in group": "จำนวนรถที่มี",
+  "name": "ชื่อ",
+  "brand": "รุ่น",
+  "engine": "ขนาดเครื่องยนต์",
+  "acriss": "โมเดลโค้ด",
+  "Manual Select": "ทั้งหมด",
+  "Select by Group/Brand/Engine": "จัดกลุ่มโดย ชื่อ/รุ่น/ขนาดเครื่องยนต์",
+  "Copy from Other Rate": "นำเข้าจากรูปแบบราคาอื่น",
+  "Add car": "เพิ่มรถยนต์",
+  "Edit Pricing": "แก้ไขราคา"
+}

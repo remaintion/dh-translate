@@ -10,5 +10,8 @@
   "staff_permission": "Staff Permission",
   "staff_role": "Staff Role",
   "car": "Car Listing",
-  "car_make": "Car Makes"
+  "car_make": "Car Make",
+  "addon_option": "Addon Option",
+  "pricing_group": "Pricing Group",
+  "pricing_monthly": "Pricing Monthly"
 }

@@ -18,5 +18,12 @@
   "Not found": "ไม่พบข้อมูล",
   "Logout": "ออกจากระบบ",
   "Inactive": "ปิดชั่วคราว",
-  "Click or drag file to this area to upload": "คลิก หรือลากไฟล์มาวาง เพิ่ออัพโหลด"
+  "Click or drag file to this area to upload": "คลิก หรือลากไฟล์มาวาง เพิ่ออัพโหลด",
+  "activate": "เปิดใช้งาน",
+  "deactivate": "ปิดใช้งานชั่วคราว",
+  "Cost": "ต้นทุน",
+  "Margin": "% กำไร",
+  "Sell Price": "ราคาขาย",
+  "Are you sure to deactivate": "คุณต้องการที่จะปิดชั่วคราว",
+  "Are you sure to activate": "คุณต้องการที่จะเปิดใช้งาน"
 }

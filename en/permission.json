@@ -17,5 +17,7 @@
   "manage_car": "Car Management",
   "manage_city": "Province Management",
   "manage_dealership": "Dealership Management",
-  "other": "Other"
+  "other": "Other",
+  "pricing": "Pricing",
+  "edit_priority": "Edit Priority"
 }

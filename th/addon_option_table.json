@@ -1,0 +1,9 @@
+{
+  "Addon Option": "อุปกรณ์เสริม",
+  "Name": "ชื่อ",
+  "Create addon option success": "สร้างอุปกรณ์เสริมสำเร็จ",
+  "Update addon option success": "แก้ไขอุปกรณ์เสรืมสำเร็จ",
+  "Activate addon option success": "เปิดใช้งานอุปกรณ์เสริมสำเร็จ",
+  "Deactivate addon option success": "ปิดใช้งานอุปกรณ์เสริมชั่วคราวสำเร็จ",
+  "Delete addon option success": "ลบอุปกรณ์เสริมสำเร็จ"
+}
