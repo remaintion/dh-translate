@@ -13,5 +13,6 @@
   "car_make": "Car Make",
   "addon_option": "Addon Option",
   "pricing_group": "Pricing Group",
-  "pricing_monthly": "Pricing Monthly"
+  "pricing_monthly": "Pricing Monthly",
+  "pricing_daily": "Pricing Daily"
 }
