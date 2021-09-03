@@ -1,7 +1,10 @@
 {
   "baht": "baht",
+  "hour": "Hour",
   "hours": "Hours",
   "day": "Day",
+  "days": "Days",
   "month": "Month",
-  "or equivalent": "Or equivalent"
+  "or equivalent": "Or equivalent",
+  "free": "Free"
 }

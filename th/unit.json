@@ -1,8 +1,11 @@
 {
   "baht": "บาท",
+  "hour": "ชั่วโมง",
   "hours": "ชั่วโมง",
   "day": "วัน",
+  "days": "วัน",
   "month": "เดือน",
   "days and more": "วันขึ้นไป",
-  "or equivalent": "หรือเทียบเท่า"
+  "or equivalent": "หรือเทียบเท่า",
+  "free": "ฟรี"
 }
