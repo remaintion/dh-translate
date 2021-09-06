@@ -7,6 +7,8 @@
   "Update pricing group priority success": "Update pricing group priority success",
   "Create pricing daily success": "Create pricing daily success",
   "Update pricing daily success": "Update pricing daily success",
+  "Delete pricing daily success": "Delete pricing daily success",
   "Create pricing monthly success": "Create pricing monthly success",
-  "Update pricing monthly success": "Update pricing monthly success"
+  "Update pricing monthly success": "Update pricing monthly success",
+  "Delete pricing monthly success": "Delete pricing monthly success"
 }
