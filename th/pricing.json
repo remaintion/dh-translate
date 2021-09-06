@@ -14,5 +14,7 @@
   "Select by Group/Brand/Engine": "จัดกลุ่มโดย ชื่อ/รุ่น/ขนาดเครื่องยนต์",
   "Copy from Other Rate": "นำเข้าจากรูปแบบราคาอื่น",
   "Add car": "เพิ่มรถยนต์",
-  "Edit Pricing": "แก้ไขราคา"
+  "Edit Pricing": "แก้ไขราคา",
+  "View by cars": "ดูราคาตามรถ",
+  "View by days": "ดูราคารายวัน"
 }
