@@ -1,9 +1,9 @@
 {
-	"Car maintenance": "Car maintenance",
-	"Add car maintenance": "Add car maintenance",
-	"Edit car maintenance": "Edit car maintenance",
-	"Please select maintained date": "Please select maintained date",
-	"Please fill services": "Please fill services",
-	"Services placeholder": "eg: Change tire, Oil Change",
-	"Please fill mileage": "Please fill mileage"
+  "Car maintenance": "Car Maintenance",
+  "Add car maintenance": "Add Car Maintenance",
+  "Edit car maintenance": "Edit Car Maintenance",
+  "Please select maintained date": "Please select maintenance date",
+  "Please fill services": "Please fill maintenance details",
+  "Services placeholder": "eg: Change tire, Oil change",
+  "Please fill mileage": "Please fill mileage"
 }

@@ -1,9 +1,9 @@
 {
-	"Please fill date begin": "Please fill date begin",
-	"Please fill date end": "Please fill date end",
-	"Please fill insurance company": "Please fill insurance company",
-	"Please select genre": "Please select insurance type",
-	"Car insurance": "Car Insurance",
-	"Add car insurance": "Add Car Insurance",
-	"Edit car insurance": "Edit car insurance"
+  "Please fill date begin": "Please fill begin date",
+  "Please fill date end": "Please fill end date",
+  "Please fill insurance company": "Please fill insurance company",
+  "Please select genre": "Please select insurance type",
+  "Car insurance": "Car Insurance",
+  "Add car insurance": "Add Car Insurance",
+  "Edit car insurance": "Edit Car Insurance"
 }

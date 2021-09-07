@@ -1,12 +1,12 @@
 {
-	"Add car generation": "Add car generation",
-	"Edit car generation": "Edit car generation",
-	"Car generation": "Car generation",
-	"Name": "Name",
-	"Year begin": "Year begin",
-	"Year end": "Year end",
-	"Please fill name": "Please fill name",
-	"Please fill year begin": "Please fill year begin",
-	"Please fill year end": "Please fill year end",
-	"Present": "Present"
+  "Add car generation": "Add Car Generation",
+  "Edit car generation": "Edit Car Generation",
+  "Car generation": "Car Generation",
+  "Name": "Generation Name",
+  "Year begin": "Year Begin",
+  "Year end": "Year End",
+  "Please fill name": "Please fill generation name",
+  "Please fill year begin": "Please fill generation year begin",
+  "Please fill year end": "Please fill generation year end",
+  "Present": "Present"
 }

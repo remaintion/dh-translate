@@ -1,5 +1,5 @@
 {
-	"Create car generation success": "Create car generation success",
-	"Update car generation success": "Update car generation success",
-	"Delete car generation success": "Delete car generation success"
+  "Create car generation success": "Car Generation Created",
+  "Update car generation success": "Car Generation Updated",
+  "Delete car generation success": "Car Generation Deleted"
 }

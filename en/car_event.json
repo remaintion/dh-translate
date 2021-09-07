@@ -1,12 +1,12 @@
 {
-	"carCreated": "Car Created",
-	"carUpdated": "Car Updated",
-	"carAddonOptionCreated": "Car Addon option created",
-	"carApprovalRejected": "Car Approval Rejected",
-	"carApprovalRequested": "Car Approval Requested",
-	"carApprovalApproved": "Car Approval Approved",
-	"carCarPhotoCreated": "Car Photo Created",
-	"carBranchInsuranceCreated": "Car Branch Insurance Created",
-	"carInsuranceCreated": "Car Insurance Created",
-	"carMaintenanceCreated": "Car Maintenance Created"
+  "carCreated": "New Car Created",
+  "carUpdated": "Car Updated",
+  "carAddonOptionCreated": "Car Add-on Option Created",
+  "carApprovalRejected": "Car Rejected",
+  "carApprovalRequested": "Car Approval Requested",
+  "carApprovalApproved": "Car Approved",
+  "carCarPhotoCreated": "Car Photo Created",
+  "carBranchInsuranceCreated": "Car Branch Insurance Created",
+  "carInsuranceCreated": "Car Insurance Created",
+  "carMaintenanceCreated": "Car Maintenance Created"
 }

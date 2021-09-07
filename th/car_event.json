@@ -1,12 +1,12 @@
 {
-	"carCreated": "รถถูกสร้างแล้ว",
-	"carUpdated": "รถถูกแก้ไขแล้ว",
-	"carAddonOptionCreated": "เพิ่มอุปกรณ์เสริมอื่นๆของรถแล้ว",
-	"carApprovalRejected": "การขออนุมัติถูกปฏิเสธ",
-	"carApprovalRequested": "ขออนุมัติรถแล้ว",
-	"carApprovalApproved": "การขออนุมัติผ่านแล้ว",
-	"carCarPhotoCreated": "เพิ่มรูปรถแล้ว",
-	"carBranchInsuranceCreated": "เพิ่มแพ็คเกจขายประกันภัย",
-	"carInsuranceCreated": "เพิ่มประกันภัยของรถ",
-	"carMaintenanceCreated": "เพิ่มรายการซ่อมบำรุง"
+  "carCreated": "สร้างรถคันใหม่แล้ว",
+  "carUpdated": "รถถูกแก้ไขแล้ว",
+  "carAddonOptionCreated": "เพิ่มอุปกรณ์เสริมอื่นๆของรถแล้ว",
+  "carApprovalRejected": "การขออนุมัติรถถูกปฏิเสธ",
+  "carApprovalRequested": "ขออนุมัติรถแล้ว",
+  "carApprovalApproved": "การขออนุมัติรถผ่านแล้ว",
+  "carCarPhotoCreated": "เพิ่มรูปรถแล้ว",
+  "carBranchInsuranceCreated": "เพิ่มแพ็คเกจประกันภัย",
+  "carInsuranceCreated": "เพิ่มประกันภัยของรถ",
+  "carMaintenanceCreated": "เพิ่มรายการซ่อมบำรุง"
 }

@@ -1,5 +1,5 @@
 {
-	"Create car make success": "Create car make success",
-	"Delete car make success": "Delete car make success",
-	"Update car make success": "Update car make success"
+  "Create car make success": "Car make Created",
+  "Delete car make success": "Car make Deleted",
+  "Update car make success": "Car make Updated"
 }

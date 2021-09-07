@@ -1,14 +1,14 @@
 {
-  "Create pricing group success": "Create pricing group success",
-  "Activate pricing group success": "Activate pricing group success",
-  "Deactivate pricing group success": "Deactivate pricing group success",
-  "Update pricing group success": "Update pricing group success",
-  "Delete pricing group success": "Delete pricing group success",
-  "Update pricing group priority success": "Update pricing group priority success",
-  "Create pricing daily success": "Create pricing daily success",
-  "Update pricing daily success": "Update pricing daily success",
-  "Delete pricing daily success": "Delete pricing daily success",
-  "Create pricing monthly success": "Create pricing monthly success",
-  "Update pricing monthly success": "Update pricing monthly success",
-  "Delete pricing monthly success": "Delete pricing monthly success"
+  "Create pricing group success": "Pricing Group Created",
+  "Activate pricing group success": "Pricing Group Activated",
+  "Deactivate pricing group success": "Pricing Group Deactivated",
+  "Update pricing group success": "Pricing Group Updated",
+  "Delete pricing group success": "Pricing Group Deleted",
+  "Update pricing group priority success": "Pricing Group Priority Updated",
+  "Create pricing daily success": "Daily Pricing Created",
+  "Update pricing daily success": "Daily Pricing Updated",
+  "Delete pricing daily success": "Daily Pricing Deleted",
+  "Create pricing monthly success": "Monthly Pricing Created",
+  "Update pricing monthly success": "Monthly Pricing Updated",
+  "Delete pricing monthly success": "Monthly Pricing Deleted"
 }
