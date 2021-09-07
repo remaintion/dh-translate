@@ -41,5 +41,7 @@
   "Add Pricing Group Daily": "เพิ่มรูปแบบราคารายวัน",
   "Add Pricing Group Monthly": "เพิ่มรูปแบบราคารายเดือน",
   "Addon Option": "อุปกรณ์เสริม",
-  "Car Addon Option": "อุปกรณ์พิเศษ"
+  "Car Addon Option": "อุปกรณ์พิเศษ",
+  "Edit Pricing Delivery Fee": "แก้ไขค่าบริการส่งรถ",
+  "Edit Pricing Overtime": "แก้ไขค่าบริการนอกเวลาทำการ"
 }
