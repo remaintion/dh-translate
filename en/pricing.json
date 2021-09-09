@@ -20,5 +20,9 @@
   "Range": "Range",
   "Price": "Price",
   "View by cars": "View by cars",
-  "View by days": "View by days"
+  "View by days": "View by days",
+  "Duration Range": "Duration Range",
+  "Select duration range": "Select duration range",
+  "Group By": "Group By",
+  "Select group by": "Select group by"
 }
