@@ -9,5 +9,9 @@
   "Cars": "Cars",
   "Local": "Local",
   "Inter": "Inter",
-  "Car Addon Option": "Car Addon Option"
+  "Car Addon Option": "Car Addon Option",
+  "approved": "Approved",
+  "created": "Created",
+  "requested": "Requested",
+  "rejected": "Rejected"
 }

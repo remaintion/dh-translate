@@ -9,5 +9,9 @@
   "Cars": "รถยนต์",
   "Local": "รถท้องถิ่น",
   "Inter": "รถรายใหญ่",
-  "Car Addon Option": "อุปกรณ์เสริม"
+  "Car Addon Option": "อุปกรณ์เสริม",
+  "approved": "อนุมัติแล้ว",
+  "created": "สร้างรถแล้ว",
+  "requested": "รอตรวจสอบ",
+  "rejected": "ถูกปฏิเสธแล้ว"
 }
