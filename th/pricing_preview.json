@@ -5,5 +5,19 @@
   "Wednesday": "พ",
   "Thursday": "พฤ",
   "Friday": "ศ",
-  "Saturday": "ส"
+  "Saturday": "ส",
+  "January": "มกราคม",
+  "February": "กุมภาพันธ์",
+  "March": "มีนาคม",
+  "April": "เมษายน",
+  "May": "พฤษภาคม",
+  "June": "มิถุนายน",
+  "July": "กรกฎาคม",
+  "August": "สิงหาคม",
+  "September": "กันยายน",
+  "October": "ตุลาคม",
+  "November": "พฤศจิกายน",
+  "December": "ธันวาคม",
+  "daily": "รายวัน",
+  "monthly": "รายเดือน"
 }
