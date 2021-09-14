@@ -1,0 +1,23 @@
+{
+  "Sunday": "อา",
+  "Monday": "จ",
+  "Tuesday": "อ",
+  "Wednesday": "พ",
+  "Thursday": "พฤ",
+  "Friday": "ศ",
+  "Saturday": "ส",
+  "January": "มกราคม",
+  "February": "กุมภาพันธ์",
+  "March": "มีนาคม",
+  "April": "เมษายน",
+  "May": "พฤษภาคม",
+  "June": "มิถุนายน",
+  "July": "กรกฎาคม",
+  "August": "สิงหาคม",
+  "September": "กันยายน",
+  "October": "ตุลาคม",
+  "November": "พฤศจิกายน",
+  "December": "ธันวาคม",
+  "daily": "รายวัน",
+  "monthly": "รายเดือน"
+}
