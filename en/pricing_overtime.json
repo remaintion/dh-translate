@@ -16,5 +16,7 @@
   "thu": "Thursday",
   "fri": "Friday",
   "sat": "Saturday",
-  "sun": "Sunday"
+  "sun": "Sunday",
+  "No Data": "No Data",
+  "Please select dealership and branches to view data": "Please select dealership and branches to view data"
 }

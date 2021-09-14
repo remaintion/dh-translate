@@ -5,5 +5,9 @@
   "Add car addon option": "Add car addon option",
   "Edit car addon option": "Edit car addon option",
   "day": "Baht / Day",
-  "trip": "Baht / Trip"
+  "trip": "Baht / Trip",
+  "month": "Baht / Month",
+  "Create car addon option success": "Create car addon option success",
+  "Update car addon option success": "Update car addon option success",
+  "Delete car addon option success": "Delete car addon option success"
 }
