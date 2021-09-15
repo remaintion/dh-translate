@@ -20,5 +20,10 @@
   "Range": "ช่วง",
   "Price": "ราคา",
   "View by cars": "ดูราคาตามรถ",
-  "View by days": "ดูราคารายวัน"
+  "View by days": "ดูราคารายวัน",
+  "Duration Range": "ระยะการเช่า",
+  "Select duration range": "เลือกระยะการเช่า",
+  "Group By": "จัดเรียง",
+  "Select group by": "เลือกจัดเรียง",
+  "View by months": "ดูราคารายเดือน"
 }

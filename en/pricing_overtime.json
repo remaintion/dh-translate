@@ -12,9 +12,11 @@
   "Update pricing overtime success": "Pricing Overtime Updated",
   "mon": "Monday",
   "tue": "Tuesday",
-  "wen": "Wednesday",
+  "wed": "Wednesday",
   "thu": "Thursday",
   "fri": "Friday",
   "sat": "Saturday",
-  "sun": "Sunday"
+  "sun": "Sunday",
+  "No Data": "No Data",
+  "Please select dealership and branches to view data": "Please select dealership and branches to view data"
 }
