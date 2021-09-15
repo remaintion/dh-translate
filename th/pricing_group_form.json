@@ -38,5 +38,6 @@
   "Please fill price per hours": "กรุณากรอกราคา/ชั่วโมง",
   "Allow Free Grace Period": "ฟรี ค่าล่วงเวลา",
   "Please fill free grace period": "กรุณากรอกค่าล่วงเวลา (ฟรี)",
-  "Must equals last row to plus 1": "ต้องเท่ากับแถวก่อนหน้าบวก 1"
+  "Must equals last row to plus 1": "ต้องเท่ากับแถวก่อนหน้าบวก 1",
+  "Minimum Duration Range": "ระยะเวลาเช่าขั้นต่ำ"
 }
