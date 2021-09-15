@@ -12,11 +12,9 @@
   "Update pricing overtime success": "อัปเดตค่าบริการนอกเวลาทำการสำเร็จ",
   "mon": "จันทร์",
   "tue": "อังคาร",
-  "wed": "พุธ",
+  "wen": "พุธ",
   "thu": "พฤหัส",
   "fri": "ศุกร์",
   "sat": "เสาร์",
-  "sun": "อาทิตย์",
-  "No Data": "ไม่มีข้อมูล",
-  "Please select dealership and branches to view data": "โปรดเลือกบริษัท และสาขาเพื่อดูรายการ"
+  "sun": "อาทิตย์"
 }

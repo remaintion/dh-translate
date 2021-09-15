@@ -15,7 +15,7 @@
   "Please select range": "Please select range",
   "mon": "Monday",
   "tue": "Tuesday",
-  "wed": "Wednesday",
+  "wen": "Wednesday",
   "thu": "Thursday",
   "fri": "Friday",
   "sat": "Saturday",
@@ -38,7 +38,5 @@
   "Please fill price per hours": "Please fill price per hours",
   "Allow Free Grace Period": "Complimentary Grace Period",
   "Please fill free grace period": "Please fill complimentary grace period",
-  "Free Hours": "Free Hours",
-  "Must equals last row to plus 1": "Must equals last row to plus 1",
-  "Minimum Duration Range": "Minimum Duration Range"
+  "Free Hours": "Free Hours"
 }
