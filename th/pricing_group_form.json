@@ -39,5 +39,6 @@
   "Allow Free Grace Period": "ฟรี ค่าล่วงเวลา",
   "Please fill free grace period": "กรุณากรอกค่าล่วงเวลา (ฟรี)",
   "Must equals last row to plus 1": "ต้องเท่ากับแถวก่อนหน้าบวก 1",
-  "Minimum Duration Range": "ระยะเวลาเช่าขั้นต่ำ"
+  "Minimum Duration Range": "ระยะเวลาเช่าขั้นต่ำ",
+  "Must select above or add new range": "กรุณาเลือก'ขึ้นไป' หรือกดเพิ่มระยะการเช่า"
 }
