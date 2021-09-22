@@ -25,5 +25,12 @@
   "During Rental": "อยู่ระหว่างการเช่า",
   "Returning": "รอรับรถคืน",
   "Walkin": "หน้าร้าน",
-  "List Pickup/Return Car": "ตารางส่ง/คืนรถ"
+  "List Pickup/Return Car": "ตารางส่ง/คืนรถ",
+  "Booking No.": "หมายเลขการจอง",
+  "Car": "รถยนต์",
+  "Customer": "ลูกค้า",
+  "All": "ทั้งหมด",
+  "Order By": "จัดเรียง",
+  "Type of booking": "ประเภทการจอง",
+  "Search Booking": "ค้นหาการจอง"
 }
