@@ -47,5 +47,9 @@
   "Other Fee": "ค่าบริการอื่นๆ",
   "Overtime Fee": "ค่าบริการนอกเวลาทำการ",
   "Delivery Fee": "ค่าบริการส่งรถ",
-  "Edit": "แก้ไข"
+  "Edit": "แก้ไข",
+  "Pricing Other": "ค่าบริการอื่นๆ",
+  "Booking": "จัดการการจอง",
+  "All Booking": "การจองทั้งหมด",
+  "List Pickup/Return Car": "ตารางส่ง/คืนรถ"
 }

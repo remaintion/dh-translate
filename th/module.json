@@ -14,5 +14,6 @@
   "addon_option": "อุปกรณ์เสริม",
   "pricing_group": "จัดการรูปแบบราคา",
   "pricing_monthly": "จัดการราคารายเดือน",
-  "pricing_daily": "จัดการราคารายวัน"
+  "pricing_daily": "จัดการราคารายวัน",
+  "booking": "การจอง"
 }
