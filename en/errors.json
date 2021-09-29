@@ -3,5 +3,8 @@
   "Unauthorized": "Email or password is incorrect",
   "EmailNotFound": "Email Address not found, Please try again",
   "ResetTokenNotFound": "Reset Token Not Found",
-  "Something went wrong!": "Something went wrong!"
+  "Something went wrong!": "Something went wrong!",
+  "Not Found": "Not found what your looking for.",
+  "Booking not found or not allow to access this booking": "Booking not found or not allow to acess this booking.",
+  "Not allow to access this booking": "Not allow to access this booking."
 }

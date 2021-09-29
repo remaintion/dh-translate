@@ -1,4 +1,5 @@
 {
+  "Booking": "Booking",
   "Booking Detail": "Booking Detail",
   "Booking History": "Booking History",
   "Car Detail": "Car Detail",
@@ -23,5 +24,6 @@
   "Total price": "Total price",
   "Deposit": "Deposit",
   "See less": "See less",
-  "See more": "See more"
+  "See more": "See more",
+  "Booking not found, Please try again later": "Booking not found, Please try again later"
 }

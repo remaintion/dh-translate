@@ -1,4 +1,5 @@
 {
+  "Booking": "การจอง",
   "Booking Detail": "รายละเอียดการจอง",
   "Booking History": "รายการเปลี่ยนแปลง",
   "Car Detail": "ข้อมูลรถยนต์",
@@ -23,5 +24,6 @@
   "Total price": "ค่าเช่ารวม",
   "Deposit": "มัดจำ",
   "See less": "ดูน้อยลง",
-  "See more": "ดูเพิ่มเติม"
+  "See more": "ดูเพิ่มเติม",
+  "Booking not found, Please try again later": "ไม่พบการจอง กรุณาลองใหม่อีกครั้ง"
 }

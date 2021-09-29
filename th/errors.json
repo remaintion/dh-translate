@@ -3,5 +3,8 @@
   "Unauthorized": "อีเมลหรือรหัสผ่านไม่ถูกต้อง",
   "EmailNotFound": "ไม่พบอีเมลในระบบ โปรดลองใหม่อีกครั้ง",
   "ResetTokenNotFound": "Reset Token Not Found",
-  "Something went wrong!": "ระบบเกิดข้อผิดพลาด โปรดลองใหม่อีกครั้ง"
+  "Something went wrong!": "ระบบเกิดข้อผิดพลาด โปรดลองใหม่อีกครั้ง",
+  "Not Found": "ไม่พบข้อมูลในระบบ",
+  "Booking not found or not allow to access this booking": "ไม่พบการจองในระบบ หรือไม่มีสิทธ์ในการเข้าถึงการจองนี้",
+  "Not allow to access this booking": "ไม่มีสิทธ์ในการเข้าถึงการจองนี้"
 }
