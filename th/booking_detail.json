@@ -31,5 +31,8 @@
   "See more": "ดูเพิ่มเติม",
   "Booking not found, Please try again later": "ไม่พบการจอง กรุณาลองใหม่อีกครั้ง",
   "View Booking": "จัดการการจองนี้",
-  "Time": "เวลา"
+  "Time": "เวลา",
+  "Change Booking State": "อัพเดทสถานะการจอง",
+  "Edit Booking": "แก้ไขการจอง",
+  "Sent Email Confirm": "ส่งอีเมลยืนยันอีกครั้ง"
 }
