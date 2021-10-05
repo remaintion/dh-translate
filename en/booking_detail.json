@@ -31,5 +31,12 @@
   "See more": "See more",
   "Booking not found, Please try again later": "Booking not found, Please try again later",
   "View Booking": "View Booking",
-  "Time": "Time"
+  "Time": "Time",
+  "Change Booking State": "Change Booking State",
+  "Edit Booking": "Edit Booking",
+  "Sent Email Confirm": "Sent Email Confirm",
+  "Current Booking State": "Current Booking State",
+  "New Booking State": "New Booking State",
+  "Send email confirm to customer": "Send email confirm to customer",
+  "Send sms confirm to customer": "Send sms confirm to customer"
 }
