@@ -37,5 +37,8 @@
   "ready_to_pickup": "รถพร้อมรับ ณ จุดรับรถ",
   "renting": "อยู่ระหว่างการเช่า",
   "ready_to_return": "รอรับรถคืน",
-  "ended": "สิ้นสุดการเช่า"
+  "ended": "สิ้นสุดการเช่า",
+  "All Bookings": "การจองทั้ง",
+  "Booking Begin/End": "วันที่รับ/คืนรถ",
+  "Dealership/Branch": "บริษัทรถเช่า/สาขา"
 }

@@ -37,5 +37,8 @@
   "ready_to_pickup": "Ready to pickup",
   "renting": "Renting",
   "ready_to_return": "Ready to return",
-  "ended": "Ended"
+  "ended": "Ended",
+  "All Bookings": "All Bookings",
+  "Booking Begin/End": "Booking Begin/End",
+  "Dealership/Branch": "Dealership/Branch"
 }
