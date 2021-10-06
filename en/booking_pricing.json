@@ -1,0 +1,17 @@
+{
+  "pricing_rate": "Price Rate",
+  "addons": "Price Addons",
+  "insurance": "Price Insurance",
+  "grace_period": "Grace Period",
+  "grace_price": "Grace Price",
+  "overtime": "Overtime",
+  "price": "Price",
+  "pickup_price": "Pickup Price",
+  "return_price": "Return Price",
+  "pricing_rate_total": "Total Price Rate",
+  "total": "Pricing Total",
+  "coupon_code": "Coupon",
+  "discount": "Discount",
+  "grand_total": "Total price",
+  "deposit": "Deposit"
+}

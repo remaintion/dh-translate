@@ -1,0 +1,17 @@
+{
+  "pricing_rate": "ค่าเช่าแต่ละวัน",
+  "addons": "ค่าอุปกรณ์เสริม",
+  "insurance": "ค่าประกัน",
+  "grace_period": "ค่าล่วงเวลา",
+  "grace_price": "ค่าล่วงเวลา",
+  "overtime": "ค่าล่วงเวลา",
+  "price": "ราคา",
+  "pickup_price": "ค่ารับรถ",
+  "return_price": "ค่าส่งรถ",
+  "pricing_rate_total": "ค่าเช่ารวมแต่ละวัน",
+  "total": "ค่าเช่ารวม",
+  "coupon_code": "คูปอง",
+  "discount": "ส่วนลด",
+  "grand_total": "สุทธิ",
+  "deposit": "ค่ามัดจำ"
+}
