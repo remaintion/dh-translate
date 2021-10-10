@@ -28,5 +28,8 @@
   "Are you sure to deactivate": "คุณต้องการที่จะปิดชั่วคราว",
   "Are you sure to activate": "คุณต้องการที่จะเปิดใช้งาน",
   "Changes you made may not be saved.": "มีการเปลี่ยนแปลงที่คุณทำไม่ได้รับการบันทึก",
-  "Today": "วันนี้"
+  "Today": "วันนี้",
+  "mr": "นาย",
+  "mrs": "นาง",
+  "miss": "นางสาว"
 }
