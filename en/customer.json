@@ -4,5 +4,10 @@
   "Title": "Title",
   "First name": "First name",
   "Last name": "Last name",
-  "Customer detail": "Customer detail"
+  "Customer detail": "Customer detail",
+  "Mr": "Mr",
+  "Mrs": "Mrs",
+  "Miss": "Miss",
+  "Ms": "Ms",
+  "Dr": "Dr"
 }

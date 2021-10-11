@@ -38,5 +38,17 @@
   "Current Booking State": "สถานะการจองปัจจุบัน",
   "New Booking State": "สถานะการจองใหม่",
   "Send email confirm to customer": "ส่งอีเมลยืนยันหาลูกค้า",
-  "Send sms confirm to customer": "ส่ง SMS ยืนยันหาลูกค้า"
+  "Send sms confirm to customer": "ส่ง SMS ยืนยันหาลูกค้า",
+  "Pickup Location": "สถานที่รับรถ",
+  "Please select pickup location": "โปรดเลือกสถานที่รับรถ",
+  "Pickup Date": "วันรับรถ",
+  "Please select pickup date": "โปรดเลือกวันรับรถ",
+  "Pickup Time": "เวลา",
+  "Please select pickup time": "โปรดเลือกเวลาที่รับรถ",
+  "Return Location": "สถานที่คืนรถ",
+  "Please select return location": "โปรดเลือกสถานที่คืนรถ",
+  "Return Date": "วันคืนรถ",
+  "Please select return date": "โปรดเลือกวันคืนรถ",
+  "Return Time": "เวลา",
+  "Please select retrun time": "โปรดเลือกเวลาที่คืนรถ"
 }

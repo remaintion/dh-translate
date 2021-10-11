@@ -38,5 +38,17 @@
   "Current Booking State": "Current Booking State",
   "New Booking State": "New Booking State",
   "Send email confirm to customer": "Send email confirm to customer",
-  "Send sms confirm to customer": "Send sms confirm to customer"
+  "Send sms confirm to customer": "Send sms confirm to customer",
+  "Pickup Location": "Pickup Location",
+  "Please select pickup location": "Please select pickup location",
+  "Pickup Date": "Pickup Date",
+  "Please select pickup date": "Please select pickup date",
+  "Pickup Time": "Pickup Time",
+  "Please select pickup time": "Please select pickup time",
+  "Return Location": "Return Location",
+  "Please select return location": "Please select return location",
+  "Return Date": "Return Location",
+  "Please select return date": "Please select return date",
+  "Return Time": "Return Time",
+  "Please select retrun time": "Please select retrun time"
 }

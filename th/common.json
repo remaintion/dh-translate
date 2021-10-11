@@ -12,6 +12,7 @@
   "Close": "ปิด",
   "Next": "ถัดไป",
   "Back": "ย้อนกลับ",
+  "Empty Selected": "ไม่ได้เลือก",
   "Reset Password": "ตั้งรหัสผ่านใหม่",
   "Are you sure to reset password": "คุณต้องการที่จะตั้งรหัสผ่านใหม่",
   "Delete account success": "ลบบัญชีผู้ใช้สำเร็จ",
