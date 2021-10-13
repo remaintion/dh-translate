@@ -2,5 +2,11 @@
  "Customer List": "Customer List",
  "Add Customer": "Add Customer",
  "Placeholder Search Customer": "Placeholder Search Customer",
- "All": "All"
+ "All": "All",
+ "Report": "Report",
+ "Customer Information": "Customer Information",
+ "Booking History": "Booking History",
+ "Document": "Document",
+ "Info Update History": "Info Update History",
+ "Blacklist": "Blacklist"
 }

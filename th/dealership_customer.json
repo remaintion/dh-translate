@@ -2,5 +2,11 @@
   "Customer List": "รายชื่อลูกค้า",
   "Add Customer": "เพิ่มลูกค้า",
   "Placeholder Search Customer": "ค้นหาด้วยเบอรมือถือ, ชื่อ, นามสกุล",
-  "All": "ตัวกรอง :   ทั้งหมด"
+  "All": "ตัวกรอง :   ทั้งหมด",
+  "Report": "รายงานลูกค้า",
+  "Customer Information": "ข้อมูลลูกค้า",
+  "Booking History": "ประวัติการเช่า",
+  "Document": "เอกสารยืนยันตัวตน",
+  "Info Update History": "ประวัติการแก้ไข",
+  "Blacklist": "เช็คประวัติ"
 }
