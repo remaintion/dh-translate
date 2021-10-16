@@ -1,0 +1,18 @@
+{
+  "Phone Number": "เบอร์มือถือ",
+  "Please fill phone number": "กรุณากรอกเบอร์มือถือ",
+  "Wrong phone number format": "เบอร์มือถือไม่ถูกต้อง",
+  "Email": "อีเมล",
+  "Worng email format": "อีเมลไม่ถูกต้อง",
+  "Card ID Number": "เลขบัตรประชาชน",
+  "Please use only number": "กรุณาใช้ตัวเลขเท่านั้น",
+  "Title": "คำนำหน้า",
+  "Please select title": "กรุณาเลือกคำนำหน้า",
+  "First Name": "ชื่อ",
+  "Please fill first name": "กรุณากรอกชื่อ",
+  "Placeholder first name": "เอ็มมา",
+  "Last Name": "นามสกุล",
+  "Please fill last name": "กรุณากรอกนามสกุล",
+  "Placeholder last name": "วอตสัน",
+  "Private Note": "Private Note"
+}
