@@ -52,5 +52,9 @@
   "Return Time": "เวลา",
   "Please select retrun time": "โปรดเลือกเวลาที่คืนรถ",
   "Begin datetime should not more than end datetime": "วันเวลารับรถ ต้องไม่มากกว่าวันเวลาคืนรถ",
-  "End datetime should not less than begin datetime": "วันเวลาคืนรถ ต้องไม่น้อยกว่าวันเวลารับรถ "
+  "End datetime should not less than begin datetime": "วันเวลาคืนรถ ต้องไม่น้อยกว่าวันเวลารับรถ ",
+  "Please select car": "โปรดเลือกรถ",
+  "Car not available on this booking datetime": "รถไม่ว่างในช่วงเวลาที่เลือก",
+  "Default Price": "ใช้ราคาเดิม",
+  "Override Price": "คำนวณราคาใหม่"
 }
