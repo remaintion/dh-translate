@@ -50,5 +50,7 @@
   "Return Date": "วันคืนรถ",
   "Please select return date": "โปรดเลือกวันคืนรถ",
   "Return Time": "เวลา",
-  "Please select retrun time": "โปรดเลือกเวลาที่คืนรถ"
+  "Please select retrun time": "โปรดเลือกเวลาที่คืนรถ",
+  "Begin datetime should not more than end datetime": "วันเวลารับรถ ต้องไม่มากกว่าวันเวลาคืนรถ",
+  "End datetime should not less than begin datetime": "วันเวลาคืนรถ ต้องไม่น้อยกว่าวันเวลารับรถ "
 }

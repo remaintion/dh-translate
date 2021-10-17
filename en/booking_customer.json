@@ -4,5 +4,16 @@
   "last_name": "Last Name",
   "phone_number": "Phone number",
   "email": "Email",
-  "genre": "Customer Genre"
+  "genre": "Customer Genre",
+  "Phone Number": "Phone Number",
+  "Email": "Email",
+  "National ID": "National ID",
+  "Title": "Title",
+  "First Name": "First Name",
+  "Last Name": "Last Name",
+  "Remark": "Remark",
+  "Please fill last name": "Please fill last name",
+  "Please fill first name": "Please fill first name",
+  "Please select name title": "Please select name title",
+  "Please fill phone number": "Please fill phone number"
 }
