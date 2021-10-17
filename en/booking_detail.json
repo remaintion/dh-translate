@@ -50,5 +50,11 @@
   "Return Date": "Return Location",
   "Please select return date": "Please select return date",
   "Return Time": "Return Time",
-  "Please select retrun time": "Please select retrun time"
+  "Please select retrun time": "Please select retrun time",
+  "End datetime should not less than begin datetime": "End datetime should not less than begin datetime",
+  "Begin datetime should not more than end datetime": "Begin datetime should not more than end datetime",
+  "Please select car": "Please select car",
+  "Car not available on this booking datetime": "Car not available on this booking datetime",
+  "Default Price": "Default Price",
+  "Override Price": "Override Price"
 }

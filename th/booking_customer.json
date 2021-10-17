@@ -4,5 +4,16 @@
   "last_name": "สกุล",
   "phone_number": "เบอร์โทรศัพท์",
   "email": "อีเมล",
-  "genre": "กลุ่มผู้จอง"
+  "genre": "กลุ่มผู้จอง",
+  "Phone Number": "เบอร์โทรศัพท์",
+  "Email": "อีเมล",
+  "National ID": "เลขบัตรประจำตัวประชาชน",
+  "Title": "คำนำหน้า",
+  "First Name": "ชื่อ",
+  "Last Name": "สกุล",
+  "Remark": "หมายเหตุ",
+  "Please fill first name": "กรุณากรอกชื่อ",
+  "Please fill last name": "กรุณากรอกสกุล",
+  "Please select name title": "กรุณาเลือกคำนำหน้า",
+  "Please fill phone number": "กรุณากรอกเบอร์โทรศัพท์"
 }
