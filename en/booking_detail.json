@@ -56,5 +56,6 @@
   "Please select car": "Please select car",
   "Car not available on this booking datetime": "Car not available on this booking datetime",
   "Default Price": "Default Price",
-  "Override Price": "Override Price"
+  "Override Price": "Override Price",
+  "Reset Price": "Reset Price"
 }
