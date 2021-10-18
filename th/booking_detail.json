@@ -56,5 +56,7 @@
   "Please select car": "โปรดเลือกรถ",
   "Car not available on this booking datetime": "รถไม่ว่างในช่วงเวลาที่เลือก",
   "Default Price": "ใช้ราคาเดิม",
-  "Override Price": "คำนวณราคาใหม่"
+  "Override Price": "คำนวณราคาใหม่",
+  "Reset Price": "รีเซ็ตราคา",
+  "Branch": "สาขา"
 }
