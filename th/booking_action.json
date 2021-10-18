@@ -1,4 +1,8 @@
 {
   "Create walkin booking success": "สร้างการจองหน้าร้านสำเร็จ",
-  "Update booking state success": "เปลี่ยนสถานะการจองสำเร็จ"
+  "Update booking state success": "เปลี่ยนสถานะการจองสำเร็จ",
+  "Resend notification success": "ส่งการแจ้งเตือนสำเร็จ",
+  "Update booking success": "แก้ไขการจองสำเร็จ",
+  "Update booking customer success": "แก้ไขข้อมูลลูกค้าสำเร็จ",
+  "Update booking pricing success": "แก้ไขราคาสำเร็จ"
 }
