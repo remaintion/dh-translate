@@ -11,5 +11,9 @@
  "Blacklist": "Blacklist",
  "Create customer success": "Create customer success",
  "Update customer success": "Update customer success",
- "Delete customer success": "Delete customer success"
+ "Delete customer success": "Delete customer success",
+ "Total Bookings": "Total Bookings",
+ "Total Reject Bookings": "Total Reject Bookings",
+ "Total Bookings with Dealer": "Total Bookings with Dealer",
+ "Bookings with dealer": "Bookings with dealer"
 }

@@ -2,5 +2,10 @@
   "Title": "คำนำหน้า",
   "First Name": "ชื่อ",
   "Last Name": "นามสกุล",
-  "Phone Number": "เบอร์ติดต่อ"
+  "Phone Number": "เบอร์ติดต่อ",
+  "Booking no.": "หมายเลขการจอง",
+  "Car": "รถยนต์",
+  "Pickup / Return": "วันที่รับ/คืนรถ",
+  "State": "สถานะการจอง",
+  "Manage booking": "จัดการการจองนี้"
 }

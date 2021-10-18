@@ -11,5 +11,9 @@
   "Blacklist": "เช็คประวัติ",
   "Create customer success": "สร้างลูกค้าสำเร็จ",
   "Update customer success": "แก้ไขข้อมูลลูกค้าสำเร็จ",
-  "Delete customer success": "ลบลูกค้าสำเร็จ"
+  "Delete customer success": "ลบลูกค้าสำเร็จ",
+  "Total Bookings": "การเช่าทั้งหมดที่เคยเช่าในระบบ",
+  "Total Reject Bookings": "ถูกบริษัทรถเช่าปฏิเสธการเช่า",
+  "Total Bookings with Dealer": "จำนวนครั้งการเช่ากับบริษัทนี้",
+  "Bookings with dealer": "การเช่ากับบริษัทนี้"
 }

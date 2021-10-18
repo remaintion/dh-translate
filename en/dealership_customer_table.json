@@ -2,5 +2,10 @@
   "Title": "Title",
   "First Name": "First Name",
   "Last Name": "Last Name",
-  "Phone Number": "Phone Number"
+  "Phone Number": "Phone Number",
+  "Booking no.": "Booking no.",
+  "Car": "Car",
+  "Pickup / Return": "Pickup / Return",
+  "State": "State",
+  "Manage booking": "Manage booking"
 }
