@@ -52,5 +52,9 @@
   "Booking": "จัดการการจอง",
   "All Booking": "การจองทั้งหมด",
   "List Pickup/Return Car": "ตารางส่ง/คืนรถ",
-  "Booking Schedule": "ตารางการจอง"
+  "Booking Schedule": "ตารางการจอง",
+  "Customer": "ลูกค้า",
+  "All Customers": "ลูกค้าทั้งหมด",
+  "All Customer Accounts": "สมาชิกทั้งหมด",
+  "Customers": "ลูกค้า"
 }
