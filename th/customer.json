@@ -11,5 +11,8 @@
   "Ms": "นาง/นางสาว",
   "Dr": "ดอกเตอร์",
   "All Customer Accounts": "สมาชิกทั้งหมด",
-  "Placeholder Search Customer": "ค้นหาสมาชิก"
+  "Placeholder Search Customer Account": "ค้นหาสมาชิก",
+  "Placeholder Search Customer": "ค้นหาลูกค้า",
+  "All Customers": "ลูกค้าทั้งหมด",
+  "Total bookings": "จำนวนการเช่า"
 }
