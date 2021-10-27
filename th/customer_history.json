@@ -1,0 +1,18 @@
+{
+  "mr": "นาย",
+  "mrs": "นาง",
+  "miss": "นางสาว",
+
+  "title": "คำนำหน้า",
+  "first_name": "ชื่อ",
+  "last_name": "นามสกุล",
+  "email": "อีเมล",
+  "phone_number": "เบอร์มือถือ",
+  "id_card_number": "เลขบัตรประชาชน",
+  "private_note": "private note",
+
+  "History": "ประวัติ",
+
+  "dealershipCustomerCreated": "ลูกค้าถูกสร้างขึ้น",
+  "dealershipCustomerUpdated": "ลูกค้าถูกแก้ไข"
+}
