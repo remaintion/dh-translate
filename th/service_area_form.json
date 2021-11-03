@@ -15,5 +15,9 @@
   "please select city": "กรุณาเลือกจังหวัด",
   "please select location": "กรุณาเลือกตำแหน่ง",
   "save": "บันทึก",
-  "edit service area": "แก้ไขพื้นที่ให้บริการ"
+  "edit service area": "แก้ไขพื้นที่ให้บริการ",
+  "Drivehub Location ID": "Drivehub Location ID",
+  "Please input dh location id": "กรุณาใส่ dh location id",
+  "Please use number only": "กรุณาใช้ตัวเลขเท่านั้น และค่าต้องไม่เท่ากับ 0",
+  "DH Location ID": "DH Location ID"
 }

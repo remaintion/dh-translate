@@ -15,5 +15,9 @@
   "please select city": "Please Select City",
   "please select location": "Please Select Location",
   "save": "Save",
-  "edit service area": "Edit Service Area"
+  "edit service area": "Edit Service Area",
+  "Drivehub Location ID": "Drivehub Location ID",
+  "Please input dh location id": "Please input dh location id",
+  "Please use number only": "Please use number only",
+  "DH Location ID": "DH Location ID"
 }
