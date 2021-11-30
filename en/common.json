@@ -8,6 +8,7 @@
   "Confirm": "Confirm",
   "Confirm Edit": "Confirm",
   "Add": "Add",
+  "Create": "Create",
   "Save": "Save",
   "Close": "Close",
   "Next": "Next",
@@ -34,5 +35,7 @@
   "mrs": "MRS",
   "miss": "MISS",
   "Undo": "Undo",
-  "Reset": "Reset"
+  "Reset": "Reset",
+  "All": "All",
+  "Show Inactive": "Show Inactive"
 }

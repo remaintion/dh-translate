@@ -1,0 +1,17 @@
+{
+  "Name": "ชื่อ",
+  "Begin Date": "วันที่เริ่ม",
+  "Begin Time": "เวลาเริ่ม",
+  "End Date": "วันที่สิ้นสุด",
+  "End Time": "เวลาสิ้นสุด",
+  "Genre": "รูปแบบ",
+  "Online": "ปิดการขายออนไลน์",
+  "All": "ปิดการใช้รถ",
+  "Select car to stop sell": "เลือกรถเพื่อปิดการขาย/การใช้",
+  "Please fill name": "กรุณาระบุชื่อการปิดการขาย",
+  "Please fill begin date": "กรุณาระบุวันที่เริ่ม",
+  "Please fill begin time": "กรุณาระบุเวลาที่เริ่ม",
+  "Please fill end date": "กรุณาระบุวันที่สิ้นสุด",
+  "Please fill end time": "กรุณาระบุเวลาที่สิ้นสุด",
+	"Please fill genre": "กรุณาระบุรูปแบบ"
+}
