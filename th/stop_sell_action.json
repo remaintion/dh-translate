@@ -1,4 +1,6 @@
 {
 	"Create Stop sell success": "เพิ่มรายการปิดการขายสำเร็จ",
-	"Update Stop sell success": "แก้ไขรายการปิดการขายสำเร็จ"
+	"Update Stop sell success": "แก้ไขรายการปิดการขายสำเร็จ",
+  "Stop sell deactivated": "รายการปิดการขายถูกปิดใช้งานแล้ว",
+  "Stop sell activated": "รายการปิดการขายถูกเปิดใช้งานแล้ว"
 }
