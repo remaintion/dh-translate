@@ -20,5 +20,6 @@
   "manage_booking": "จัดการการจอง",
   "other": "จัดการอื่นๆ",
   "pricing": "ราคา",
-  "edit_priority": "แก้ไขลำดับ"
+  "edit_priority": "แก้ไขลำดับ",
+  "stop_sell": "ปิดการขาย"
 }
