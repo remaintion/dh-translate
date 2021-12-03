@@ -1,5 +1,6 @@
 {
-	"Name": "Name", 
-	"Duration": "Duration",
-	"Total Car": "Total Car"
+  "Name": "Name",
+  "Duration": "Duration",
+  "Total Car": "Total Car",
+  "Branch": "Branch"
 }

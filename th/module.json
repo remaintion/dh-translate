@@ -15,5 +15,6 @@
   "pricing_group": "จัดการรูปแบบราคา",
   "pricing_monthly": "จัดการราคารายเดือน",
   "pricing_daily": "จัดการราคารายวัน",
-  "booking": "การจอง"
+  "booking": "การจอง",
+  "stop_sell": "ปิดการขาย"
 }
