@@ -3,5 +3,6 @@
   "Add car branch insurance": "Add Insurance Package",
   "Edit car branch insurance": "Edit Insurance Package",
   "Protection": "Protection",
-  "Price": "Price"
+  "Price": "Price/Day",
+  "baht": "Bath/Day"
 }

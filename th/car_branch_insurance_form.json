@@ -3,5 +3,6 @@
   "Add car branch insurance": "เพิ่มแพ็คเกจประกันภัย",
   "Edit car branch insurance": "แก้ไขแพ็คเกจประกันภัย",
   "Protection": "ความคุ้มครอง",
-  "Price": "ราคา"
+  "Price": "ราคา/วัน",
+  "baht": "บาท/วัน"
 }
