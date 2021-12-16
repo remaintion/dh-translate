@@ -3,5 +3,7 @@
 	"Create Stop Sell": "Create Stop Sell",
 	"Edit Stop Sell": "Edit Stop Sell",
   "online": "Only walkin",
-  "all": "Stop"
+  "all": "Stop",
+	"have": "have",
+	"bookings in this period": "bookings in this period"
 }
