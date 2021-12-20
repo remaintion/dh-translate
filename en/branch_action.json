@@ -9,5 +9,7 @@
   "Update branch operation success": "Branch Information Updated",
   "Delete branch operation success": "Branch Information Deleted",
   "Update branch notification success": "Branch Notification Updated",
-  "Delete branch notification success": "Branch Notification Deleted"
+  "Delete branch notification success": "Branch Notification Deleted",
+  "Branch activated": "Branch Activated",
+  "Branch deactivated": "Branch Deactivated"
 }

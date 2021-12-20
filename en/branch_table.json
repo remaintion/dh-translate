@@ -1,5 +1,6 @@
 {
-	"Name": "Branch Name",
-	"City": "Service Area",
-	"Dealership": "Dealership"
+  "Name": "Branch Name",
+  "City": "Service Area",
+  "Dealership": "Dealership",
+  "Status": "Status"
 }

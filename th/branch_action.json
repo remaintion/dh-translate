@@ -9,5 +9,7 @@
   "Update branch operation success": "บันทึกสำเร็จ",
   "Delete branch operation success": "ลบสำเร็จ",
   "Update branch notification success": "บันทึกสำเร็จ",
-  "Delete branch notification success": "ลบสำเร็จ"
+  "Delete branch notification success": "ลบสำเร็จ",
+  "Branch activated": "เปิดการใช้งานสาขาแล้ว",
+  "Branch deactivated": "ปิดการใช้งานสาขาชั่วคราวแล้ว"
 }
