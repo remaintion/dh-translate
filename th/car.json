@@ -16,5 +16,8 @@
   "approved": "อนุมัติแล้ว",
   "created": "สร้างรถแล้ว",
   "requested": "รอตรวจสอบ",
-  "rejected": "ถูกปฏิเสธแล้ว"
+  "rejected": "ถูกปฏิเสธแล้ว",
+  "Is Online": "ขายออนไลน์",
+  "Enabled": "เปิด",
+  "Disabled": "เปิด"
 }

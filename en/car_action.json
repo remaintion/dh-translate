@@ -11,5 +11,7 @@
   "Delete car maintenance success": "Car Maintenance Deleted",
   "Create car branch insurance success": "Car Branch Insurance Created",
   "Update car branch insurance success": "Car Branch Insurance Updated",
-  "Delete car branch insurance success": "Car Branch Insurance Deleted"
+  "Delete car branch insurance success": "Car Branch Insurance Deleted",
+  "Enabled car online": "Enable online listing success",
+  "Disabled car online": "Disabled online listing success"
 }

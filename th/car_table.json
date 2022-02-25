@@ -11,5 +11,8 @@
   "Setting": "ตั้งค่า",
   "Cars": "จัดการรถยนต์",
   "Branch": "สาขา",
-  "Dealership": "บริษัท"
+  "Dealership": "บริษัท",
+  "Is Online": "ขายออนไลน์",
+  "Enabled": "เปิด",
+  "Disabled": "เปิด"
 }

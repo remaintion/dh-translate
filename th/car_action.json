@@ -11,5 +11,7 @@
   "Delete car maintenance success": "ลบรายการซ่อมบำรุงสำเร็จ",
   "Create car branch insurance success": "สร้างแพ็คเกจประกันภัยสำเร็จ",
   "Update car branch insurance success": "บันทึกสำเร็จ",
-  "Delete car branch insurance success": "ลบแพ็คเกจประกันภัยสำเร็จ"
+  "Delete car branch insurance success": "ลบแพ็คเกจประกันภัยสำเร็จ",
+  "Enabled car online": "เปิดการขายออนไลน์สำเร็จ",
+  "Disabled car online": "ปิดการขายออนไลน์แล้ว"
 }

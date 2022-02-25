@@ -16,5 +16,8 @@
   "approved": "Approved",
   "created": "Created",
   "requested": "Requested",
-  "rejected": "Rejected"
+  "rejected": "Rejected",
+  "Is Online": "Online Listing",
+  "Enabled": "Enabled",
+  "Disabled": "Disabled"
 }

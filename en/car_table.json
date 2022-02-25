@@ -11,5 +11,8 @@
   "Setting": "Setting",
   "Cars": "Car",
   "Branch": "Branch",
-  "Dealership": "Dealership"
+  "Dealership": "Dealership",
+  "Is Online": "Online Listing",
+  "Enabled": "Enabled",
+  "Disabled": "Disabled"
 }
