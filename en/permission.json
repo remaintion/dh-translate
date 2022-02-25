@@ -21,5 +21,6 @@
   "other": "Other",
   "pricing": "Pricing",
   "edit_priority": "Edit Priority",
-  "stop_sell": "Stop Sell"
+  "stop_sell": "Stop Sell",
+  "is_online": "Online Listing"
 }
