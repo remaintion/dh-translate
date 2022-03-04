@@ -3,5 +3,11 @@
   "Out Operation": "Out Operation",
   "Pending": "Pending",
   "Booking Begin": "Booking Begin",
-  "Booking End": "Booking End"
+  "Booking End": "Booking End",
+  "Car Ranking": "Car Ranking",
+  "Last Updated": "Last Updated",
+  "date": "Daily",
+  "week": "Weekly",
+  "month": "Monthly",
+  "year": "Annual"
 }
