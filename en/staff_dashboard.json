@@ -9,5 +9,6 @@
   "date": "Daily",
   "week": "Weekly",
   "month": "Monthly",
-  "year": "Annual"
+  "year": "Annual",
+  "Cancelled Bookings": "Cancelled Bookings"
 }

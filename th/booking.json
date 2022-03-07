@@ -40,5 +40,6 @@
   "ended": "สิ้นสุดการเช่า",
   "All Bookings": "การจองทั้งหมด",
   "Booking Begin/End": "วันที่รับ/คืนรถ",
-  "Dealership/Branch": "บริษัทรถเช่า/สาขา"
+  "Dealership/Branch": "บริษัทรถเช่า/สาขา",
+  "Cancelled Reason": "เหตุผลการยกเลิก"
 }
