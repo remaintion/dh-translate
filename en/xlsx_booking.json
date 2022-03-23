@@ -1,0 +1,16 @@
+{
+	"booking_id": "Booking ID",
+	"created_at": "Created At",
+	"location": "Pickup Location",
+	"booking_begin": "Booking Begin",
+	"booking_end": "Booking End",
+	"license_plate": "License Plate",
+	"customer.name": "Customer Name",
+	"customer.phone_number": "Customer Phone",
+	"grand_total": "Grand Total",
+	"reason": "Cancel Reason",
+	"no": "No.",
+	"range": "Range",
+	"all_branches": "All Branches",
+	"count": "Canceled Count"
+}

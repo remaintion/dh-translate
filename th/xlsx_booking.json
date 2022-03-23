@@ -1,0 +1,16 @@
+{
+	"booking_id": "หมายเลขการจอง",
+	"created_at": "วันที่สร้าง",
+	"location": "สถานที่รับ-คืนรถ",
+	"booking_begin": "วันรับรถ",
+	"booking_end": "วันคืนรถ",
+	"license_plate": "ทะเบียนรถ",
+	"customer.name": "ชื่อลูกค้า",
+	"customer.phone_number": "เบอร์ติดต่อ",
+	"grand_total": "ราคาเช่า",
+	"reason": "เหตุผลการยกเลิก",
+	"no": "ลำดับ",
+	"range": "ช่วงระยะเวลา",
+	"all_branches": "สาขาทั้งหมด",
+	"count": "จำนวนการยกเลิก"
+}
