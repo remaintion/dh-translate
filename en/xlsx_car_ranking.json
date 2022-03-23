@@ -1,0 +1,10 @@
+{
+	"no": "No.",
+	"make": "Car Make",
+	"model": "Car Model",
+	"registration": "Registration Year",
+	"booking_count": "Bookings Count",
+	"total_price": "Total Price",
+	"range": "Range",
+	"car_ranking": "Car Ranking"
+}
