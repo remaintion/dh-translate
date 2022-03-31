@@ -1,0 +1,14 @@
+{
+	"Update profile success": "แก้ไขข้อมูลสำเร็จ",
+	"Profile": "ข้อมูลส่วนตัว",
+	"My Profile": "บัญชีของฉัน",
+	"First Name": "ชื่อ",
+	"Last Name": "นามสกุล",
+	"Email": "อีเมล",
+	"Phone Number": "เบอร์โทรศัพท์",
+	"Security": "ความปลอดภัย",
+	"Set New Password": "ตั้งรหัสผ่านใหม่",
+	"Please check email": "โปรดเช็คอีเมล",
+	"For reset password": "เพื่อตั้งรหัสผ่านใหม่",
+	"Please check your junk mail": "หากคุณยังไม่ได้รับอีเมลโปรดตรวจสอบ Junk mail ของคุณ"
+}
