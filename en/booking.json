@@ -32,6 +32,7 @@
   "pending": "Pending",
   "waiting": "Waiting",
   "accepted": "Accepted",
+  "waiting_payment": "Waiting Payment",
   "rejected": "Rejected (By Dealership)",
   "cancelled": "Cancelled (By Customer)",
   "ready_to_pickup": "Ready to pickup",
