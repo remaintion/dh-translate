@@ -3,5 +3,7 @@
 	"walkin_customer": "Walkin Customer",
 	"range": "Range",
 	"branch": "Branch",
-	"total": "Total"
+	"total": "Total",
+	"order": "Order",
+	"datetime": "Date"
 }
