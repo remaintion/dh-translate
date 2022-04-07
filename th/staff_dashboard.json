@@ -25,5 +25,7 @@
 	"Service mind": "ความใส่ใจของเจ้าหน้าที่",
 	"Accuracy": "ได้รถคันที่จอง",
 	"Recommend": "แนะนำ",
-	"All branch": "ทุกสาขา"
+	"All branch": "ทุกสาขา",
+	"Business Analysis - Booking Time": "วิเคราะห์ธุรกิจ - ช่วงเวลาการเช่ารถ",
+	"Business Analysis - Booking Customer": "วิเคราะห์ธุรกิจ - ภาพรวมผู้ซื้อ"
 }
