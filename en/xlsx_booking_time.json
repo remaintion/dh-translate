@@ -1,0 +1,12 @@
+{
+	"order_count": "Order",
+	"total_price": "Total Price",
+	"base_date": "Today",
+	"base_week": "Week",
+	"base_month": "Month",
+	"base_year": "Year",
+	"previous_date": "Yesterday",
+	"previous_week": "Previous Week",
+	"previous_month": "Previous Month",
+	"previous_year": "Previous Year"
+}

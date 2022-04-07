@@ -29,5 +29,7 @@
 	"Total Amount": "ยอดทั้งหมด",
 	"Total Bookings": "จำนวนรายการเช่ารถ",
 	"Total Discount": "โปรโมชั่นส่วนลดจาก DH",
-	"Total Promotion": "จำนวนรายการโปรโมชั่น"
+	"Total Promotion": "จำนวนรายการโปรโมชั่น",
+	"Business Analysis - Booking Time": "วิเคราะห์ธุรกิจ - ช่วงเวลาการเช่ารถ",
+	"Business Analysis - Booking Customer": "วิเคราะห์ธุรกิจ - ภาพรวมผู้ซื้อ"
 }
