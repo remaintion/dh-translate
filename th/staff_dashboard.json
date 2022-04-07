@@ -25,5 +25,9 @@
 	"Service mind": "ความใส่ใจของเจ้าหน้าที่",
 	"Accuracy": "ได้รถคันที่จอง",
 	"Recommend": "แนะนำ",
-	"All branch": "ทุกสาขา"
+	"All branch": "ทุกสาขา",
+	"Total Amount": "ยอดทั้งหมด",
+	"Total Bookings": "จำนวนรายการเช่ารถ",
+	"Total Discount": "โปรโมชั่นส่วนลดจาก DH",
+	"Total Promotion": "จำนวนรายการโปรโมชั่น"
 }

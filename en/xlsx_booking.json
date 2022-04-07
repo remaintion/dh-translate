@@ -16,5 +16,10 @@
 	"no": "No.",
 	"range": "Range",
 	"all_branches": "All Branches",
-	"count": "Canceled Count"
+	"count": "Canceled Count",
+	"booking_count": "Booking Count",
+	"total_amount": "Total Amount",
+	"discount": "Discount",
+	"discount_count": "Promotion Booking",
+	"discount_total_amount": "Total Discount from DH"
 }

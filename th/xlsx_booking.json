@@ -16,5 +16,10 @@
 	"no": "ลำดับ",
 	"range": "ช่วงระยะเวลา",
 	"all_branches": "สาขาทั้งหมด",
-	"count": "จำนวนการยกเลิก"
+	"count": "จำนวนการยกเลิก",
+	"booking_count": "จำนวนรายการเช่ารถ",
+	"total_amount": "สรุปยอดทั้งหมด",
+	"discount": "ส่วนลด",
+	"discount_count": "รายการโปรโมชั่น",
+	"discount_total_amount": "โปรโมชั่นส่วนลดจาก DH"
 }
