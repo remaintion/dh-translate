@@ -1,9 +1,10 @@
 {
-  "Group By": "Group By",
-  "engine": "Engine",
-  "name": "Name",
-  "brand": "Brand",
-  "Engine Size": "Engine Size",
-  "Car Make": "Car Make",
-  "Car Model": "Car Model"
+	"Group By": "Group By",
+	"engine": "Engine",
+	"name": "Name",
+	"brand": "Brand",
+	"Engine Size": "Engine Size",
+	"Car Make": "Car Make",
+	"Car Model": "Car Model",
+	"year": "Year"
 }
