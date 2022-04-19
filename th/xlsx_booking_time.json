@@ -8,5 +8,8 @@
 	"previous_date": "เมื่อวาน",
 	"previous_week": "สัปดาห์ที่แล้ว",
 	"previous_month": "เดือนที่แล้ว",
-	"previous_year": "ปีที่แล้ว"
+	"previous_year": "ปีที่แล้ว",
+	"no": "ลำดับ",
+	"range": "ช่วงเช่ารถ",
+	"total_booking": "จำนวน booking"
 }

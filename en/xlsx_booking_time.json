@@ -8,5 +8,8 @@
 	"previous_date": "Yesterday",
 	"previous_week": "Previous Week",
 	"previous_month": "Previous Month",
-	"previous_year": "Previous Year"
+	"previous_year": "Previous Year",
+	"no": "No.",
+	"range": "Range",
+	"total_booking": "Total Booking"
 }
