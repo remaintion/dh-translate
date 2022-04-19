@@ -1,9 +1,9 @@
 {
-	"online_customer": "ลูกค้าออนไลน์",
-	"walkin_customer": "ลูกค้าหน้าร้าน",
-	"range": "ช่วงระยะเวลา",
-	"branch": "สาขา",
-	"total": "รวม",
-	"order": "ลำดับ",
-	"date": "ช่วงเช่ารถ"
+  "online_customer": "ลูกค้าออนไลน์",
+  "walkin_customer": "ลูกค้าหน้าร้าน",
+  "range": "ช่วงระยะเวลา",
+  "branch": "สาขา",
+  "total": "รวม",
+  "order": "ลำดับ",
+  "date": "ช่วงเช่ารถ"
 }
