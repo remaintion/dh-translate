@@ -1,6 +1,9 @@
 {
-  "Edit Addon Option": "Edit Addon Option",
-  "Create Addon Option": "Create Addon Option",
-  "Name": "Name",
-  "Name EN": "Name EN"
+	"Edit Addon Option": "Edit Addon Option",
+	"Create Addon Option": "Create Addon Option",
+	"Name": "Name",
+	"Name EN": "Name (English)",
+	"Description": "Description",
+	"Description EN": "Description (English)",
+	"Avatar": "Avatar"
 }
