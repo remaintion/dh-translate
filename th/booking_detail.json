@@ -58,5 +58,6 @@
   "Default Price": "ใช้ราคาเดิม",
   "Override Price": "คำนวณราคาใหม่",
   "Reset Price": "รีเซ็ตราคา",
-  "Branch": "สาขา"
+  "Branch": "สาขา",
+  "Company/Branch": "บริษัทรถเช่า/สาขา"
 }
