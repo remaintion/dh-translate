@@ -42,5 +42,6 @@
   "All Bookings": "การจองทั้งหมด",
   "Booking Begin/End": "วันที่รับ/คืนรถ",
   "Dealership/Branch": "บริษัทรถเช่า/สาขา",
-  "Cancelled Reason": "เหตุผลการยกเลิก"
+  "Cancelled Reason": "เหตุผลการยกเลิก",
+  "Branch": "สาขา"
 }
