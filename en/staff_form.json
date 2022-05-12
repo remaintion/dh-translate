@@ -1,5 +1,6 @@
 {
   "Add staff": "Add Staff",
+  "Branch" : "Branch",
   "User Info": "User Info",
   "First Name": "First Name",
   "Last Name": "Last Name",
@@ -23,6 +24,7 @@
   "Role": "Role",
   "Select company": "Select Company",
   "Select role": "Select Role",
+  "Select branch": "Select Branch",
   "Save": "Save",
   "Create": "Create",
   "Please select company": "Please select company",

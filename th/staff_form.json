@@ -1,5 +1,6 @@
 {
   "Add staff": "เพิ่มพนักงานใหม่",
+  "Branch" : "สาขา",
   "User Info": "ข้อมูลส่วนตัว",
   "First Name": "ชื่อ",
   "Last Name": "นามสกุล",
@@ -23,6 +24,7 @@
   "Role": "ตำแหน่ง",
   "Select company": "เลือกบริษัท",
   "Select role": "เลือกตำแหน่ง",
+  "Select branch": "เลือกสาขา",
   "Save": "บันทึก",
   "Create": "สร้าง",
   "Please select company": "กรุณาเลือกบริษัทของบัญชีนี้",
