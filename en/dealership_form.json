@@ -39,6 +39,7 @@
   "Please fill email": "Please fill email",
   "Tax id": "Tax ID",
   "Please fill tax id": "Please fill Tax ID",
+  "Please fill tax id 13 digit": "Please specify a complete 13-digit Taxpayer Identification number.",
   "Please fill mobile number": "Please fill mobile number",
   "Please select logo": "Please Upload Logo",
   "upload_state.dealership": "Creating dealership...",
