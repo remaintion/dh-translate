@@ -47,5 +47,15 @@
   "fwd": "FWD",
   "rwd": "RWD",
   "awd": "AWD",
-  "4wd": "4WD"
+  "4wd": "4WD",
+  "Please fill car trim name": "กรุณากรอกชื่อรุ่นย่อย",
+  "Please fill seats": "กรุณากรอกจำนวนที่นั่ง",
+  "Please fill doors": "กรุณากรอกจำนวนประตู",
+  "Please fill luggages": "กรุณากรอกจำนวนกระเป๋าใบใหญ่",
+  "Please select body": "กรุณาเลือกตัวถัง",
+  "Please select transmission": "กรุณาเลือกระบบเกียร์",
+  "Please select fuel": "กรุณาเลือกระบบเชื้อเพลิง",
+  "Please select drivetrain": "กรุณาเลือกระบบขับเคลื่อน",
+  "Please fill engine size": "กรุณากรอกความจุเครื่องยนต์"
+
 }
