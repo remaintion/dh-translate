@@ -12,6 +12,7 @@
   "Paid": "ชำระเงินแล้ว",
   "Refunded": "คืนเงินแล้ว",
   "Payment Failed": "ชำระเงินไม่สำเร็จ",
+  "No Payment Status": "ไม่มีสถานะการชำระเงิน",
   "Cancel Booking": "ยกเลิกการจอง",
   "Customer Contacted": "ติดต่อลูกค้าแล้ว",
   "Confirm Booking": "ยืนยันการจอง",
