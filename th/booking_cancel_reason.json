@@ -1,0 +1,19 @@
+{
+	"Car not available / Preparation time / Out of available range / Accident": "รถไม่ว่าง/เตรียมรถไม่ทัน/ใช้รถไปไกล/รถเกิดอุบัติเหตุ",
+	"Can't Delivery in time": "จองด่วนมาส่งรถไม่ทัน",
+	"Unable to contact customer": "ติดต่อลูกค้าไม่ได้",
+	"Cancel trip/ Not sure": "ยกเลิกการเดินทาง/ยังไม่แน่ใจ",
+	"Unable to contact customer in time": "ติดต่อลูกค้าไม่ทัน",
+	"Book with new car/ Duplicate booked / Accident booked": "จองคันใหม่ในระบบ/จองซ้ำ/จองผิด",
+	"Need to apply/ Change discount": "ต้องการใช้ส่วนลด/เปลี่ยนแปลง",
+	"Document is invalid/ Not match dealer condition / Deposit": "เอกสารไม่ตรงตามเงื่อนไข/เลยกำหนดโอนจอง/ไม่สะดวกโอนจอง",
+	"Unable to pay delivery price / VAT / Insurance": "ไม่จ่ายค่ารับส่งรถนอกเวลา/ต้องการบิล VAT/ซื้อประกันเพิ่ม",
+	"Suspicious person": "บุคคลน่าสงสัย",
+	"Others": "อื่นๆ (โปรดระบุ)",
+	"Customer not satisfied": "ไม่พึงพอใจการบริการร้านเช่ารถ",
+	"Dealership delivery too late": "ร้านส่งรถไม่ตรงตามเวลาที่จอง",
+	"Dealership not/late contact": "ไม่ได้รับการติดต่อกลับ/ร้านติดต่อกลับล่าช้าเกินเวลาที่กำหนด",
+	"Unable to send document / Document is invalid / Deposit": "ไม่สะดวกส่งเอกสาร/เอกสารไม่ครบ/ไม่สะดวกโอนจอง",
+	"Car not match": "ได้รถไม่ตรงตามที่จอง",
+	"Customer not pickup": "ลูกค้าไม่มารับรถ"
+}
