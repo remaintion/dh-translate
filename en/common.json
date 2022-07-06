@@ -55,5 +55,9 @@
 	"This week": "This week",
 	"This month": "This month",
 	"This year": "This year",
-	"Send": "Send"
+	"Send": "Send",
+	"local": "Local",
+	"inter": "Inter",
+	"all": "All",
+	"Dealership Type": "Dealership Type"
 }
