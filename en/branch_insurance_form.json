@@ -1,13 +1,13 @@
 {
-  "Insurance": "Insurance",
-  "Add insurance": "Add Insurance",
-  "Insurance name": "Insurance Name",
-  "Status": "Status",
-  "Default": "Default",
-  "Name": "Name",
-  "Price": "Price",
-  "Option": "Insurance Coverage",
-  "Set as default": "Set as Default",
-  "Please fill insurance name": "Please fill insurance name",
-  "Please select insurance option": "Please select insurance coverage"
+	"Insurance": "Insurance",
+	"Add insurance": "Add Insurance",
+	"Insurance name": "Insurance Name",
+	"Status": "Status",
+	"Default": "Default",
+	"Name": "Name",
+	"Price": "Price",
+	"Option": "Insurance Coverage",
+	"Set as default": "Set as Default",
+	"Please fill insurance name": "Please fill insurance name",
+	"Description": "Description"
 }
