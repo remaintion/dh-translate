@@ -1,8 +1,10 @@
 {
-  "Create walkin booking success": "Create walkin booking success",
-  "Update booking state success": "Update booking state success",
-  "Resend notification success": "Resend notification success",
-  "Update booking success": "Update booking success",
-  "Update booking customer success": "Update booking customer success",
-  "Update booking pricing success": "Update booking pricing success"
+	"Create walkin booking success": "Create walkin booking success",
+	"Update booking state success": "Update booking state success",
+	"Resend notification success": "Resend notification success",
+	"Update booking success": "Update booking success",
+	"Update booking customer success": "Update booking customer success",
+	"Update booking pricing success": "Update booking pricing success",
+	"Confirm to change payment to refunded": "Confirm to change payment to refunded",
+	"Confirm to change payment to paid": "Confirm to change payment to paid"
 }
