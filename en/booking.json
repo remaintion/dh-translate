@@ -36,6 +36,7 @@
   "monthly": "Monthly",
   "cwd": "Car With Driver",
   "mock": "",
+  "waiting_reference": "Waiting for dealership reference ( INTER )",
   "pending": "Pending",
   "waiting": "Waiting",
   "accepted": "Accepted",
