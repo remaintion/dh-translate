@@ -60,5 +60,6 @@
   "Present": "ปัจจุบัน",
   "Drivetrain System": "ระบบขับเคลื่อน",
   "Engine System": "ความจุเครื่องยนต์",
-  "Insurance Packages And Addon Option": "แพ็คเกจประกันภัยและอุปกรณ์เสริม"
+  "Insurance Packages And Addon Option": "แพ็คเกจประกันภัยและอุปกรณ์เสริม",
+  "Error Upload Image size": "รูปภาพต้องมีขนาดไฟล์เล็กกว่า {{file_size}}"
 }

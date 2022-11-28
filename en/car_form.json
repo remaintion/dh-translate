@@ -60,5 +60,6 @@
   "Present": "Present",
   "Drivetrain System": "Drivetrain System",
   "Engine System": "Engine System",
-  "Insurance Packages And Addon Option": "Insurance Packages And Addon Option"
+  "Insurance Packages And Addon Option": "Insurance Packages And Addon Option",
+  "Error Upload Image size": "Image must smaller than {{file_size}}"
 }
