@@ -6,5 +6,8 @@
 	"Engine Size": "ขนาดเครื่องยนต์",
 	"Car Make": "ยี่ห้อ",
 	"Car Model": "รุ่น",
-	"year": "ปี"
+	"year": "ปี",
+  "Show All": "โชว์รถทั้งหมด",
+  "Walk In Only": "เฉพาะหน้าร้าน",
+  "Online Only": "เฉพาะออนไลน์"
 }

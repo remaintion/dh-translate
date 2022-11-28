@@ -6,5 +6,8 @@
 	"Engine Size": "Engine Size",
 	"Car Make": "Car Make",
 	"Car Model": "Car Model",
-	"year": "Year"
+	"year": "Year",
+  "Show All": "All",
+  "Walk In Only": "Walk In",
+  "Online Only": "Online"
 }
