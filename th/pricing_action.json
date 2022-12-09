@@ -10,5 +10,6 @@
   "Delete pricing daily success": "ลบราคารายวันสำเร็จ",
   "Create pricing monthly success": "สร้างราคารายเดือน",
   "Update pricing monthly success": "บันทึกราคารายเดือนสำเร็จ",
-  "Delete pricing monthly success": "ลบทึกราคารายเดือนสำเร็จ"
+  "Delete pricing monthly success": "ลบทึกราคารายเดือนสำเร็จ",
+  "Please check your pricing": "รูปแบบราคามีการเปลี่ยนแปลง กรุณาเช็คราคารถของท่านให้เรียบร้อย"
 }
