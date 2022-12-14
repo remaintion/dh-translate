@@ -22,6 +22,7 @@
   "Please fill preparation booking time": "กรุณาระบุเวลาที่ใช้ในการเตรียมรถ",
   "Please fill minimum days": "กรุณาระบุวันขั้นต่ำ",
   "Add range": "เพิ่มช่วงเวลา",
+  "Time end must be after time begin": "เวลาสิ้นสุดต้องมากกว่าเวลาเริ่มต้น",
   "Minumum is": "ต้องมากกว่า",
   "mon": "จันทร์",
   "tue": "อังคาร",
