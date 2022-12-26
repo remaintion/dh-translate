@@ -1,10 +1,17 @@
 {
-  "Internal": "Internal system error, Please try again",
-  "Unauthorized": "Email or password is incorrect",
-  "EmailNotFound": "Email Address not found, Please try again",
-  "ResetTokenNotFound": "Reset Token Not Found",
-  "Something went wrong!": "Something went wrong!",
-  "Not Found": "Not found what your looking for.",
-  "Booking not found or not allow to access this booking": "Booking not found or not allow to acess this booking.",
-  "Not allow to access this booking": "Not allow to access this booking."
+	"Internal": "Internal system error, Please try again",
+	"Unauthorized": "Email or password is incorrect",
+	"EmailNotFound": "Email Address not found, Please try again",
+	"ResetTokenNotFound": "Reset Token Not Found",
+	"Something went wrong!": "Something went wrong!",
+	"Not Found": "Not found what your looking for.",
+	"Booking not found or not allow to access this booking": "Booking not found or not allow to acess this booking.",
+	"Not allow to access this booking": "Not allow to access this booking.",
+	"car is not online": "Car is not online",
+	"car is not approved": "Car is not approved",
+	"car is not active": "Car is not active",
+	"booking is overlapped": "Booking is overlapped",
+  "pricing not match": "Pricing is not found",
+	"branch operation not found": "Branch opertaion is not found",
+	"branch operation when pickup or return is not found": "Branch operation is not found on pickup or return"
 }
