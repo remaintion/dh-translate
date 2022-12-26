@@ -64,5 +64,6 @@
 	"Cancel Reason": "เหตุผลในการยกเลิกการจอง",
 	"Please select cancel reason": "โปรดเลือกเหตุผลในการยกเลิกการจอง",
 	"Explanation": "คำอธิบาย",
-	"Please fill explanation reason": "กรุณากรอกคำอธิบาย"
+	"Please fill explanation reason": "กรุณากรอกคำอธิบาย",
+	"Please check information before commit change": "โปรดตรวจสอบให้แน่ใจก่อนทำการยืนยันแก้ไขการจองนี้ "
 }

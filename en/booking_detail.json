@@ -64,5 +64,6 @@
 	"Cancel Reason": "Cancel Reason",
 	"Please select cancel reason": "Please select cancel reason",
 	"Explanation": "Explanation",
-	"Please fill explanation reason": "Please fill explanation reason"
+	"Please fill explanation reason": "Please fill explanation reason",
+	"Please check information before commit change": "Please check information before commit change"
 }
