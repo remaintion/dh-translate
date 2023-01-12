@@ -18,5 +18,6 @@
 	"booking": "การจอง",
 	"dashboard": "ภาพรวมร้าน",
 	"customer": "ลูกค้า",
-	"stop_sell": "ปิดการขาย"
+	"stop_sell": "ปิดการขาย",
+	"filter_group": "ฟิลเตอร์กรุ๊ป"
 }

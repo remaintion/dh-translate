@@ -18,5 +18,6 @@
 	"booking": "Booking",
 	"dashboard": "Dashboard",
 	"customer": "Customer",
-	"stop_sell": "Stop Sell"
+	"stop_sell": "Stop Sell",
+	"filter_group": "Filter Groups"
 }
