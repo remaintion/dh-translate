@@ -60,5 +60,10 @@
 	"local": "ท้องถิ่น",
 	"inter": "รายใหญ่",
 	"all": "ทั้งหมด",
-	"Dealership Type": "ประเภทร้าน"
+	"Dealership Type": "ประเภทร้าน",
+	"placeholder": {
+		"selector": {
+			"province": "โปรดเลือกจังหวัด"
+		}
+	}
 }

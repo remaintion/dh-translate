@@ -59,5 +59,10 @@
 	"local": "Local",
 	"inter": "Inter",
 	"all": "All",
-	"Dealership Type": "Dealership Type"
+	"Dealership Type": "Dealership Type",
+	"placeholder": {
+		"selector": {
+			"province": "please select province"
+		}
+	}
 }

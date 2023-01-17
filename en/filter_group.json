@@ -1,4 +1,30 @@
 {
 	"Filter Groups": "Filter Groups",
-	"Name": "Name"
+	"Name": "Name",
+	"form": {
+		"name": "Name",
+		"name_en": "Name (English)",
+		"banner": "Image",
+		"province": "City",
+		"conditions": "Conditions"
+	},
+	"placeholder": {
+		"name": "Name",
+		"name_en": "Name (English)",
+		"field": "Field",
+		"selector": {
+			"car_make": "Please select car make",
+			"car_model": "Please select car model",
+			"engine_size": "Please input your engine size",
+			"seats": "Please input your seat",
+			"drivetrain": "Please select drivetrain",
+			"fuel": "Please select fuel"
+		}
+	},
+	"car_make": "Car Make",
+	"car_model": "Car Model",
+	"engine_size": "Engine Size",
+	"seats": "Seats",
+	"drivetrain": "Drivetrain",
+	"fuel": "Fuel"
 }
