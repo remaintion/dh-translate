@@ -64,5 +64,6 @@
 		"selector": {
 			"province": "please select province"
 		}
-	}
+	},
+	"Preview": "Preview"
 }

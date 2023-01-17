@@ -6,7 +6,19 @@
 		"name_en": "Name (English)",
 		"banner": "Image",
 		"province": "City",
-		"conditions": "Conditions"
+		"conditions": "Conditions",
+		"require": {
+			"name": "Please fill your filter group name",
+			"city": "Please select province",
+			"banner": "Please upload image",
+			"not_select": "Please select or fill the values",
+			"car_make": "Please select car make",
+			"car_model": "Please select car model",
+			"engine_size": "Please fill your engine size",
+			"seats": "Please fill your seat",
+			"drivetrain": "Please select drivetrain",
+			"fuel": "Please select fuel"
+		}
 	},
 	"placeholder": {
 		"name": "Name",
@@ -15,8 +27,8 @@
 		"selector": {
 			"car_make": "Please select car make",
 			"car_model": "Please select car model",
-			"engine_size": "Please input your engine size",
-			"seats": "Please input your seat",
+			"engine_size": "Please fill your engine size",
+			"seats": "Please fill your seat",
 			"drivetrain": "Please select drivetrain",
 			"fuel": "Please select fuel"
 		}
