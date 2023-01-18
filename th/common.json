@@ -31,6 +31,7 @@
 	"Logout": "ออกจากระบบ",
 	"Inactive": "ปิดชั่วคราว",
 	"Click or drag file to this area to upload": "คลิก หรือลากไฟล์มาวาง เพิ่ออัพโหลด",
+	"request_upload": "คลิก หรือลากไฟล์มาวาง เพิ่ออัพโหลด",
 	"activate": "เปิดใช้งาน",
 	"deactivate": "ปิดใช้งานชั่วคราว",
 	"Cost": "ต้นทุน",
