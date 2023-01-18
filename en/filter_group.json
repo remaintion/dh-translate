@@ -1,12 +1,12 @@
 {
 	"Filter Groups": "Filter Groups",
-	"Name": "Name",
 	"form": {
 		"name": "Name",
 		"name_en": "Name (English)",
 		"banner": "Image",
 		"province": "City",
 		"conditions": "Conditions",
+		"status": "Status",
 		"require": {
 			"name": "Please fill your filter group name",
 			"city": "Please select province",
