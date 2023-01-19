@@ -38,5 +38,12 @@
 	"engine_size": "Engine Size",
 	"seats": "Seats",
 	"drivetrain": "Drivetrain",
-	"fuel": "Fuel"
+	"fuel": "Fuel",
+	"actions": {
+		"create_success": "Create {{name}} success",
+		"update_success": "Update filter group success",
+		"activate_success": "Filter group is activated",
+		"deactivate_success": "Filter group is deactivated",
+		"delete_success": "Filter group is deleted"
+	}
 }
