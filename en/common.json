@@ -66,5 +66,7 @@
 			"province": "please select province"
 		}
 	},
-	"Preview": "Preview"
+	"Preview": "Preview",
+	"Select All": "Select All",
+	"Unselect All": "Unselect All"
 }
