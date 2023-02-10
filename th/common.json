@@ -60,5 +60,7 @@
 	"local": "ท้องถิ่น",
 	"inter": "รายใหญ่",
 	"all": "ทั้งหมด",
-	"Dealership Type": "ประเภทร้าน"
+	"Dealership Type": "ประเภทร้าน",
+	"Select All": "เลือกทั้งหมด",
+	"Unselect All": "ล้างตัวเลือกทั้งหมด"
 }
