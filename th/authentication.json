@@ -14,7 +14,7 @@
   "Set New Password": "ตั้งรหัสผ่านใหม่",
   "New Password": "รหัสผ่านใหม่",
   "Confirm New Password": "ยืนยันรหัสผ่านใหม่",
-  "Password invalid": "รหัสผ่านต้องมีตัวอักษรหรือตัวเลข และมีความยาวมากกว่า 8 หลัก",
-  "Password mismatched": "รหัสผ่านไม่ตรงกัน",
+  "Password invalid": "รหัสผ่านต้องมีอักขระ 8 ตัวขึ้นไป โดยใช้ตัวอักษร หรือตัวเลข",
+  "Password mismatched": "รหัสผ่านไม่ตรงกัน โปรดลองอีกครั้ง",
   "Reset password success": "ตั้งรหัสผ่านใหม่สำเร็จ"
 }
