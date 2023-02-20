@@ -70,5 +70,9 @@
   },
   "Preview": "ดู",
   "Select All": "เลือกทั้งหมด",
-  "Unselect All": "ล้างตัวเลือกทั้งหมด"
+  "Unselect All": "ล้างตัวเลือกทั้งหมด",
+  "Count of car online": "จำนวนรถออนไลน์",
+  "Count of car approved": "จำนวนรถที่อนุมัติแล้ว",
+  "Province": "จังหวัด",
+  "See all cars": "ดูรถยนต์ทั้งหมด"
 }
