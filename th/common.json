@@ -74,5 +74,6 @@
   "Count of car online": "จำนวนรถออนไลน์",
   "Count of car approved": "จำนวนรถที่อนุมัติแล้ว",
   "Province": "จังหวัด",
-  "See all cars": "ดูรถยนต์ทั้งหมด"
+  "See all cars": "ดูรถยนต์ทั้งหมด",
+  "Dealers have car less than 50 percent": "ร้านค้ามีรถออนไลน์ต่ำกว่า 50%"
 }
