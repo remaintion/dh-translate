@@ -74,5 +74,6 @@
   "Count of car approved": "Count of car approved",
   "Province": "Province",
   "See all cars": "See all cars",
-  "Dealers have car less than 50 percent": "ร้านค้ามีรถออนไลน์ต่ำกว่า 50%"
+  "Dealers have car less than 50 percent": "Dealers have car less than 50%",
+  "Online car percentage is calculated from the number of approved cars": "Online car percentage is calculated from the number of approved cars."
 }
