@@ -1,6 +1,7 @@
 {
-	"Bookings": "Bookings",
-	"Today Bookings": "Today Bookings",
-	"Today Car Approval": "Today Car Approval",
-	"Admin ack booking": "Admin ack booking"
+  "Bookings": "Bookings",
+  "Today Bookings": "Today Bookings",
+  "Today Car Approval": "Today Car Approval",
+  "Admin ack booking": "Admin ack booking",
+  "Dealers Approval": "Dealers Approval"
 }
