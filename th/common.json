@@ -79,5 +79,8 @@
 	"Online car percentage is calculated from the number of approved cars": "เปอร์เซ็นต์รถออนไลน์คำนวนจากจำนวนรถที่อนุมัติแล้ว",
 	"Search": "ค้นหา",
 	"Selected": "เลือกแล้ว",
-	"Select": "เลือก"
+	"Select": "เลือก",
+	"Weekdays": "วันธรรมดา",
+	"Weekend": "วันสุดสัปดาห์",
+	"Every day": "ทุกวัน"
 }

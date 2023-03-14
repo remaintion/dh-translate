@@ -78,5 +78,8 @@
 	"Online car percentage is calculated from the number of approved cars": "Online car percentage is calculated from the number of approved cars.",
 	"Search": "Search",
 	"Selected": "Selected",
-	"Select": "Select"
+	"Select": "Select",
+	"Weekdays": "Weekdays",
+	"Weekend": "Weekend",
+	"Every day": "Every day"
 }
