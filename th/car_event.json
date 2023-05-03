@@ -19,10 +19,12 @@
 	"genre": "ประเภท",
 	"Old Value": "ค่าเก่า",
 	"New Value": "ค่าใหม่",
-  "branch_uuid": "สาขา",
-  "dealership_uuid": "ร้าน",
-  "car_make_uuid": "ยี่ห้อ",
-  "car_model_uuid": "รุ่น",
-  "car_generation_uuid": "โฉมรถยนต์",
-  "car_trim_uuid": "รุ่นย่อย"
+	"branch_uuid": "สาขา",
+	"dealership_uuid": "ร้าน",
+	"car_make_uuid": "ยี่ห้อ",
+	"car_model_uuid": "รุ่น",
+	"car_generation_uuid": "โฉมรถยนต์",
+	"car_trim_uuid": "รุ่นย่อย",
+	"bookingCreated": "การจองถูกสร้าง",
+	"bookingCarUpdated": "เปลี่ยนรถ"
 }
