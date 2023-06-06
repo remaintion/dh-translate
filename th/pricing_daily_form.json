@@ -1,4 +1,8 @@
 {
-	"Minimum": "เช่าขั้นต่ำ",
-	"Deposit": "ค่ามัดจำ"
+  "Minimum": "เช่าขั้นต่ำ",
+  "Deposit": "ค่ามัดจำ",
+  "change_car_pricing": "ปรับราคารถ",
+  "car_editing": "รถที่กำลังแก้ไข",
+  "car_selected": "มีรถ {{count}} คันถูกเลือกอยู่",
+  "car_selected_edit": "แก้ไขราคารถที่เลือก"
 }
