@@ -13,6 +13,7 @@
 	"transfer": "Transfer car between branches",
 	"approval": "Car listing approval",
 	"manage_admin": "Admin Management",
+	"manage_badge": "Badge Management",
 	"manage_staff": "Staff Management",
 	"manage_car": "Car Management",
 	"manage_city": "Province Management",
@@ -26,5 +27,6 @@
 	"staff": "Staff Management",
 	"edit_priority": "Edit Priority",
 	"stop_sell": "Stop Sell",
-	"is_online": "Online Listing"
+	"is_online": "Online Listing",
+	"badge": "Badge"
 }
