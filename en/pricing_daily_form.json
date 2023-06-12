@@ -1,4 +1,9 @@
 {
-	"Minimum": "Minimum Days",
-	"Deposit": "Deposit"
+  "Minimum": "Minimum Days",
+  "Deposit": "Deposit",
+  "change_car_pricing": "Change car pricing",
+  "car_editing": "Car editing",
+  "car_selected": "car {{count}} is selected",
+  "car_selected_edit": "Edit car selected",
+  "note": "*ระบบจะบันทึกเฉพาะราคาที่กรอกเท่านั้น หากปล่อยว่างระบบจะใช้ราคาเดิมที่มีอยู่"
 }

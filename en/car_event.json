@@ -24,5 +24,7 @@
 	"car_make_uuid": "Car Make",
 	"car_model_uuid": "Car Model",
 	"car_generation_uuid": "Car Generation",
-	"car_trim_uuid": "Car Trim"
+	"car_trim_uuid": "Car Trim",
+	"bookingCreated": "ฺBooking Created",
+	"bookingCarUpdated": "เปลี่ยนรถ"
 }
