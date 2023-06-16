@@ -11,5 +11,7 @@
   "Update branch notification success": "บันทึกสำเร็จ",
   "Delete branch notification success": "ลบสำเร็จ",
   "Branch activated": "เปิดการใช้งานสาขาแล้ว",
-  "Branch deactivated": "ปิดการใช้งานสาขาชั่วคราวแล้ว"
+  "Branch deactivated": "ปิดการใช้งานสาขาชั่วคราวแล้ว",
+  "Branch activated cwd": "เปิดการใช้งานรถพร้อมคนขับแล้ว",
+  "Branch deactivated cwd": "ปิดการใช้งานรถพร้อมคนขับแล้ว"
 }

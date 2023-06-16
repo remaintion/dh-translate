@@ -11,5 +11,7 @@
   "Update branch notification success": "Branch Notification Updated",
   "Delete branch notification success": "Branch Notification Deleted",
   "Branch activated": "Branch Activated",
-  "Branch deactivated": "Branch Deactivated"
+  "Branch deactivated": "Branch Deactivated",
+  "Branch activated cwd": "Branch Activated Car With Driver",
+  "Branch deactivated cwd": "Branch DeActivated Car With Driver"
 }
