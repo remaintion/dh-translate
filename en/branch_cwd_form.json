@@ -1,5 +1,16 @@
 {
-	"use_cwd_feature": "เริ่มต้นใช้งานระบบรถพร้อมคนขับ",
-	"activate": "เปิดใช้งาน",
-	"disable": "ปิดใช้งาน"
+  "use_cwd_feature": "เริ่มต้นใช้งานระบบรถพร้อมคนขับ",
+  "activate": "เปิดใช้งาน",
+  "disable": "ปิดใช้งาน",
+  "save": "บันทึก",
+  "bank_account": "บัญชีธนาคาร",
+  "please_add_bank_account": "โปรดเพิ่มบัญชีธนาคารเพื่อขึ้นโชว์บนระบบ",
+  "account": "บัญชี",
+  "delete": "ลบ",
+  "add_account": "เพิ่มบัญชี",
+  "please_select": "โปรดเลือก",
+  "required_field": "จำเป็นต้องกรอก",
+  "bank_name": "ชื่อธนาคาร",
+  "account_name": "ชื่อบัญชี",
+  "account_number": "เลขที่บัญชี"
 }
