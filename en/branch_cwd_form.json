@@ -4,6 +4,8 @@
   "disable": "ปิดใช้งาน",
   "disable_cwd": "ปิดรถเช่าพร้อมคนขับ",
   "save": "บันทึก",
+  "edit": "แก้ไข",
+  "driver_working_time": "เวลาทำงานของคนขับ",
   "bank_account": "บัญชีธนาคาร",
   "please_add_bank_account": "โปรดเพิ่มบัญชีธนาคารเพื่อขึ้นโชว์บนระบบ",
   "account": "บัญชี",
