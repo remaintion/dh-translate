@@ -5,6 +5,7 @@
   "admin_role": "ตำแหน่งของแอดมิน",
   "branch": "สาขา",
   "car_with_driver": "รถเช่าพร้อมคนขับ",
+  "cwd_pricing_group": "จัดการราคารถเช่าพร้อมคนขับ",
   "dealership": "บริษัท",
   "service_area": "พื้นที่ให้บริการ",
   "cwd_service_area": "พื้นที่ให้บริการ รถเช่าพร้อมคนขับ",
