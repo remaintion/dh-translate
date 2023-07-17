@@ -34,6 +34,7 @@
   "Please fill minimum days": "กรุณาระบุวันขั้นต่ำ",
   "Add range": "เพิ่มช่วงเวลา",
   "Add package": "เพิ่มแพ็กเกจ",
+  "Package name": "ชื่อแพ็กเกจ",
   "Overtime label": "ชั่วโมง Overtime ก่อนปัดเป็น  1 วัน",
   "How to calculate ot": "วิธีการคำนวณ OT",
   "Time period": "ระยะเวลา",
