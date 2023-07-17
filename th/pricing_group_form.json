@@ -54,5 +54,12 @@
   "Price includes": "สิ่งที่รวมอยู่ในราคานี้",
   "Price Fixed": "ราคาเหมา",
   "Please select stuff": "กรุณาเลือก สิ่งที่รวมอยู่ในราคานี้",
-  "Add sub price": "เพิ่มราคาย่อย"
+  "Add sub price": "เพิ่มราคาย่อย",
+  "begin": "เริ่มต้น",
+  "hour_per_day": "ต่อวัน ({{hour}} ชั่วโมง)",
+  "package": "แพ็กเกจราคา",
+  "working_hour": "ชั่วโมงการทำงาน",
+  "deposit": "มัดจำ",
+  "price_per_day": "ราคาต่อวัน",
+  "total": "รวม"
 }

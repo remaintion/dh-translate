@@ -55,5 +55,12 @@
   "Price includes": "Price includes",
   "Price Fixed": "Price Fixed",
   "Please select stuff": "Please select stuff",
-  "Add sub price": "Add sub price"
+  "Add sub price": "Add sub price",
+  "begin": "Begin",
+  "hour_per_day": "Per day ({{hour}} hour)",
+  "package": "Price package",
+  "working_hour": "Working Hour",
+  "deposit": "Deposit",
+  "price_per_day": "Price Per Day",
+  "total": "Total"
 }
