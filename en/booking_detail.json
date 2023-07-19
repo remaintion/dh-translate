@@ -65,5 +65,13 @@
 	"Please select cancel reason": "Please select cancel reason",
 	"Explanation": "Explanation",
 	"Please fill explanation reason": "Please fill explanation reason",
-	"Please check information before commit change": "Please check information before commit change"
+	"Please check information before commit change": "Please check information before commit change",
+	"invoice": {
+		"title": "ข้อมูลใบกำกับภาษี",
+		"full_name": "ชื่อ - นามสกุล",
+		"genre": "ประเภท",
+		"tax_id": "เลขประจำตัวผู้เสียภาษีอากร",
+		"email": "อีเมล (ส่งเอกสารทางออนไลน์)",
+		"address": "ที่อยู่"
+	}
 }

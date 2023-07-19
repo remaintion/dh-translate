@@ -65,5 +65,13 @@
 	"Please select cancel reason": "โปรดเลือกเหตุผลในการยกเลิกการจอง",
 	"Explanation": "คำอธิบาย",
 	"Please fill explanation reason": "กรุณากรอกคำอธิบาย",
-	"Please check information before commit change": "โปรดตรวจสอบให้แน่ใจก่อนทำการยืนยันแก้ไขการจองนี้ "
+	"Please check information before commit change": "โปรดตรวจสอบให้แน่ใจก่อนทำการยืนยันแก้ไขการจองนี้ ",
+	"invoice": {
+		"title": "ข้อมูลใบกำกับภาษี",
+		"full_name": "ชื่อ - นามสกุล",
+		"genre": "ประเภท",
+		"tax_id": "เลขประจำตัวผู้เสียภาษีอากร",
+		"email": "อีเมล (ส่งเอกสารทางออนไลน์)",
+		"address": "ที่อยู่"
+	}
 }
