@@ -49,5 +49,8 @@
   "working_hour": "Working Hour",
   "deposit": "Deposit",
   "price_per_day": "Price Per Day",
-  "total": "Total"
+  "total": "Total",
+  "Overtime label": "Hour of overtime before up to  1 day",
+  "Price condition": "Price condition",
+  "Price at": "Price at"
 }

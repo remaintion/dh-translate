@@ -48,5 +48,8 @@
   "working_hour": "ชั่วโมงการทำงาน",
   "deposit": "มัดจำ",
   "price_per_day": "ราคาต่อวัน",
-  "total": "รวม"
+  "total": "รวม",
+  "Overtime label": "ชั่วโมง Overtime ก่อนปัดเป็น  1 วัน",
+  "Price condition": "เงื่อนไขราคา",
+  "Price at": "ราคาที่"
 }
