@@ -11,5 +11,8 @@
   "Create pricing monthly success": "สร้างราคารายเดือน",
   "Update pricing monthly success": "บันทึกราคารายเดือนสำเร็จ",
   "Delete pricing monthly success": "ลบทึกราคารายเดือนสำเร็จ",
+  "Create pricing cwd success": "สร้างราคารถพร้อมคนขับ",
+  "Update pricing cwd success": "บันทึกราคารถพร้อมคนขับสำเร็จ",
+  "Delete pricing cwd success": "ลบทึกราคารถพร้อมคนขับสำเร็จ",
   "Please check your pricing": "รูปแบบราคามีการเปลี่ยนแปลง กรุณาเช็คราคารถของท่านให้เรียบร้อย"
 }
