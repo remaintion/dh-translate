@@ -46,6 +46,7 @@
   "begin": "Begin",
   "hour_per_day": "Per day ({{hour}} hour)",
   "package": "Price package",
+  "disable_package": "Disable Package",
   "working_hour": "Working Hour",
   "deposit": "Deposit",
   "price_per_day": "Price Per Day",

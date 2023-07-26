@@ -45,6 +45,7 @@
   "begin": "เริ่มต้น",
   "hour_per_day": "ต่อวัน ({{hour}} ชั่วโมง)",
   "package": "แพ็กเกจราคา",
+  "disable_package": "ปิดแพ็กเกจ",
   "working_hour": "ชั่วโมงการทำงาน",
   "deposit": "มัดจำ",
   "price_per_day": "ราคาต่อวัน",
