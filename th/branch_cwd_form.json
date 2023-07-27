@@ -32,6 +32,7 @@
   "Please fill advance booking time": "กรุณาระบุเวลาที่ลูกค้าต้องจองล่วงหน้า",
   "Please fill preparation booking time": "กรุณาระบุเวลาที่ใช้ในการเตรียมรถ",
   "Please fill minimum days": "กรุณาระบุวันขั้นต่ำ",
+  "Please fill grace period duration": "กรุณากรอกจำนวนชั่วโมง",
   "Add range": "เพิ่มช่วงเวลา",
   "Add package": "เพิ่มแพ็กเกจ",
   "Package name": "ชื่อแพ็กเกจ",
