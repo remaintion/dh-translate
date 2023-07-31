@@ -34,6 +34,7 @@
   "Please fill minimum days": "กรุณาระบุวันขั้นต่ำ",
   "Please fill grace period duration": "กรุณากรอกจำนวนชั่วโมง",
   "Please fill in the driver's working hours": "กรุณากรอกจำนวนชั่วโมง",
+  "Hour per day": "ชั่วโมง/วัน",
   "Add range": "เพิ่มช่วงเวลา",
   "Add package": "เพิ่มแพ็กเกจ",
   "Package name": "ชื่อแพ็กเกจ",
