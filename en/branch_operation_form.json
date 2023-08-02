@@ -30,5 +30,11 @@
 	"thu": "Thursday",
 	"fri": "Friday",
 	"sat": "Saturday",
-	"sun": "Sunday"
+	"sun": "Sunday",
+	"errors": {
+		"default": {
+			"incomplete_day": "Please select day",
+			"incomplete_week": "Please select day to cover whole week"
+		}
+	}
 }
