@@ -81,5 +81,7 @@
     "End_Date": "วันกลับ:"
   },
   "Edit Price": "แก้ไขค่าใช้จ่ายอื่นๆ",
-  "Package": "แพ็กเกจ"
+  "Package": "แพ็กเกจ",
+  "OT Price": "ค่า Overtime",
+  "Other Expenses": "ค่าใช้จ่ายอื่นๆ"
 }
