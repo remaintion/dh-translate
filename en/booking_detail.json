@@ -73,5 +73,11 @@
 		"tax_id": "เลขประจำตัวผู้เสียภาษีอากร",
 		"email": "อีเมล (ส่งเอกสารทางออนไลน์)",
 		"address": "ที่อยู่"
-	}
+	},
+  "Trip Header": "Trip Header",
+  "CWD_Trip": {
+    "Start_Date": "Start Date:",
+    "Description": "Description:",
+    "End_Date": "End Date:"
+  }
 }
