@@ -86,5 +86,6 @@
   "Other Expenses": "ค่าใช้จ่ายอื่นๆ",
   "Deposit Price": "ชำระเงินส่วนแรก (ค่ามัดจำ)",
   "Waiting Payment List Header": "รายการรอชำระ",
-  "CWD Update Price Modal Title": "เพิ่มค่าใช้จ่ายอื่นๆ"
+  "CWD Update Price Modal Title": "เพิ่มค่าใช้จ่ายอื่นๆ",
+  "Total Price": "ราคารวม"
 }
