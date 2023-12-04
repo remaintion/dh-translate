@@ -76,9 +76,9 @@
 	},
   "Trip Header": "Trip Header",
   "CWD_Trip": {
-    "Start_Date": "Start Date:",
-    "Description": "Description:",
-    "End_Date": "End Date:"
+    "Start_Date": "Start Date",
+    "Description": "Description",
+    "End_Date": "End Date"
   },
   "Edit Price": "Edit Price",
   "Package": "Package",

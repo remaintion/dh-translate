@@ -76,9 +76,9 @@
 	},
   "Trip Header": "รายละเอียดทริป",
   "CWD_Trip": {
-    "Start_Date": "วันเดินทาง:",
-    "Description": "ระหว่างทริป:",
-    "End_Date": "วันกลับ:"
+    "Start_Date": "วันเดินทาง",
+    "Description": "ระหว่างทริป",
+    "End_Date": "วันกลับ"
   },
   "Edit Price": "แก้ไขค่าใช้จ่ายอื่นๆ",
   "Package": "แพ็กเกจ",
