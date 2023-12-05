@@ -90,5 +90,7 @@
   "Total Price": "Total Price",
   "Booking Trip Details": "Booking Trip Details",
   "Old": "Old",
-  "New": "New"
+  "New": "New",
+  "No cars with drivers available during the selected time": "No cars with drivers available during the selected time",
+  "Please change the booking begin and booking end date and time": "Please change the booking begin and booking end date and time"
 }

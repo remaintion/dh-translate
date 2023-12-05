@@ -90,5 +90,7 @@
   "Total Price": "ราคารวม",
   "Booking Trip Details": "รายละเอียดทริป",
   "Old": "เดิม",
-  "New": "ใหม่"
+  "New": "ใหม่",
+  "No cars with drivers available during the selected time": "ไม่มีรถพร้อมคนขับในช่วงเวลาที่เลือก",
+  "Please change the booking begin and booking end date and time": "โปรดเปลี่ยนวันและเวลารับ-ส่งผู้โดยสาร"
 }
