@@ -93,5 +93,7 @@
   "New": "ใหม่",
   "No cars with drivers available during the selected time": "ไม่มีรถพร้อมคนขับในช่วงเวลาที่เลือก",
   "Please change the booking begin and booking end date and time": "โปรดเปลี่ยนวันและเวลารับ-ส่งผู้โดยสาร",
-  "Current Use": "กำลังใช้อยู่"
+  "Current Use": "กำลังใช้อยู่",
+  "Default Package":"ใช้แพ็คเกจเดิม",
+  "Override Package": "เลือกแพ็กเกจใหม่"
 }
