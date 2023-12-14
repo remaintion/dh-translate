@@ -95,5 +95,9 @@
   "Please change the booking begin and booking end date and time": "โปรดเปลี่ยนวันและเวลารับ-ส่งผู้โดยสาร",
   "Current Use": "กำลังใช้อยู่",
   "Default Package":"ใช้แพ็คเกจเดิม",
-  "Override Package": "เลือกแพ็กเกจใหม่"
+  "Override Package": "เลือกแพ็กเกจใหม่",
+  "Number Of Travelers": "จำนวนผู้เดินทาง",
+  "Lodging": "ที่พักสำหรับคนขับ",
+  "noRoomAvailable": "ไม่มีห้องพักให้",
+  "no_room": "ไม่มีห้องพักให้"
 }

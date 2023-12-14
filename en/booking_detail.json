@@ -95,5 +95,9 @@
   "Please change the booking begin and booking end date and time": "Please change the booking begin and booking end date and time",
   "Current Use": "Current Use",
   "Default Package":"Default Package",
-  "Override Package": "Override Package"
+  "Override Package": "Override Package",
+  "Number Of Travelers": "Number Of Travelers",
+  "Lodging": "Lodging",
+  "noRoomAvailable": "noRoomAvailable",
+  "no_room": "no_room"
 }
