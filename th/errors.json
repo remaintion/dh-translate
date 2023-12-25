@@ -11,6 +11,7 @@
   "car is not approved": "รถยังไม่ได้รับการอนุมัติ",
   "car is not active": "รถยังไม่ถูกเปิดใช้งาน",
   "booking is overlapped": "รถคันนี้มีบุคกิ้งซ้ำในช่วงเวลาที่เลือก",
+  "conflict overlap booking": "รถคันนี้มีบุคกิ้งซ้ำในช่วงเวลาที่เลือก",
   "pricing not match": "ไม่พบราคาของรถคันนี้ในช่วงเวลาที่เลือก",
   "branch operation not found": "ไม่พบเวลาทำการของสาขาในช่วงเวลาที่เลือก",
   "branch operation when pickup or return is not found": "ไม่พบเวลาทำการของสาขาตอนรับรถหรือคืนรถวันในช่วงเวลาที่เลือก",

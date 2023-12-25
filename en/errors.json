@@ -11,6 +11,7 @@
   "car is not approved": "Car is not approved",
   "car is not active": "Car is not active",
   "booking is overlapped": "Booking is overlapped",
+  "conflict overlap booking": "Conflict overlap booking",
   "pricing not match": "Pricing is not found",
   "branch operation not found": "Branch opertaion is not found",
   "branch operation when pickup or return is not found": "Branch operation is not found on pickup or return",
