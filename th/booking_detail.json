@@ -109,5 +109,27 @@
 	"noRoomAvailable": "ไม่มีห้องพักให้",
 	"noRoomAvailableCondition": "(ทางร้านอาจมีเก็บค่าใช้จ่ายเพิ่มเติม)",
 	"roomAvailable": "มีห้องพักให้คนขับ",
-	"roomUncertain": "ยังไม่แน่ใจ (ต้องการแจ้งภายหลัง)"
+	"roomUncertain": "ยังไม่แน่ใจ (ต้องการแจ้งภายหลัง)",
+	"cwd_packages": {
+		"packages_price": "ค่าเช่ารถพร้อมคนขับ",
+		"price_per_day": "ราคาต่อวัน ฿{{price}} x {{day}} วัน",
+		"package_option_exclude": "เงื่อนไขแพ็กเกจ",
+		"exclude": "ราคาไม่รวม",
+		"hours_per_day": "ใช้งาน {{hours}} ชั่วโมงต่อวัน",
+		"more_than_ot": "หากขับเกินมีค่า OT",
+		"price_more_than_ot": "ชั่วโมงละ {{price}} บาท",
+		"time_more_than_ot": "(ไม่เกิน {{hours}} ชั่วโมง)",
+		"driver_working_time": "เวลาทำงานคนขับ",
+		"include": "ราคารวม",
+		"o_clock": "น.",
+		"days": {
+			"sun": "อาทิตย์",
+			"mon": "จันทร์",
+			"tue": "อังคาร",
+			"wed": "พุธ",
+			"thu": "พฤหัสบดี",
+			"fri": "ศุกร์",
+			"sat": "เสาร์"
+		}
+	}
 }
