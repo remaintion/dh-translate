@@ -25,6 +25,7 @@
 	"Report Problem": "แจ้งปัญหาการเช่า",
 	"List Pickup Car/Return Car": "ตารางส่งรถ/คืนรถ",
 	"Booking No.": "หมายเลขการจอง",
+	"Category": "ประเภท",
 	"Car": "รถยนต์",
 	"Customer": "ลูกค้า",
 	"All": "ทั้งหมด",
@@ -52,5 +53,8 @@
 	"Booking Begin/End": "วันที่รับ/คืนรถ",
 	"Dealership/Branch": "บริษัทรถเช่า/สาขา",
 	"Cancelled Reason": "เหตุผลการยกเลิก",
-	"Branch": "สาขา"
+	"Branch": "สาขา",
+	"Rental car type": " ประเภทรถเช่า",
+	"cwd car": "รถเช่าพร้อมคนขับ",
+	"sd car": "รถเช่าขับเอง"
 }

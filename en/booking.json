@@ -25,6 +25,7 @@
 	"Report Problem": "Report Problem",
 	"List Pickup Car/Return Car": "List Pickup Car/Return Car",
 	"Booking No.": "Booking No.",
+	"Category": "Category",
 	"Car": "Car",
 	"Customer": "Customer",
 	"All": "All",
@@ -52,5 +53,8 @@
 	"Booking Begin/End": "Booking Begin/End",
 	"Dealership/Branch": "Dealership/Branch",
 	"Cancelled Reason": "Cancelled Reason",
-	"Branch": "Branch"
+	"Branch": "Branch",
+	"Rental car type": " Category",
+	"cwd car": "CWD Car",
+	"sd car": "Self Drive"
 }
