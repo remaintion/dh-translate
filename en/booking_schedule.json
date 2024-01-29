@@ -7,9 +7,13 @@
 	"Car Make": "Car Make",
 	"Car Model": "Car Model",
 	"year": "Year",
-  "Show All": "All",
-  "Walk In Only": "Walk In",
-  "Online Only": "Online",
-  "Self Drive": "Self Drive",
-  "Car With Driver": "Car With Driver"
+	"Show All": "All",
+	"Walk In Only": "Walk In",
+	"Online Only": "Online",
+	"Walk In": "Walk In",
+	"Online": "Online",
+	"Self Drive": "Self Drive",
+	"Car With Driver": "Car With Driver",
+	"Genre": "ประเถทการจอง",
+	"Category": "ประเถทการเช่า"
 }

@@ -7,9 +7,13 @@
 	"Car Make": "ยี่ห้อ",
 	"Car Model": "รุ่น",
 	"year": "ปี",
-  "Show All": "โชว์รถทั้งหมด",
-  "Walk In Only": "เฉพาะหน้าร้าน",
-  "Online Only": "เฉพาะออนไลน์",
+	"Show All": "โชว์รถทั้งหมด",
+	"Walk In Only": "เฉพาะหน้าร้าน",
+	"Online Only": "เฉพาะออนไลน์",
+	"Walk In": "หน้าร้าน",
+	"Online": "ออนไลน์",
 	"Self Drive": "รถเช่าขับเอง",
-  "Car With Driver": "รถเช่าพร้อมคนขับ"
+	"Car With Driver": "รถเช่าพร้อมคนขับ",
+	"Genre":"ประเถทการจอง",
+	"Category":"ประเถทการเช่า"
 }
