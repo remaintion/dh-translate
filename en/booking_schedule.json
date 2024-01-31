@@ -14,6 +14,7 @@
 	"Online": "Online",
 	"Self Drive": "Self Drive",
 	"Car With Driver": "Car With Driver",
-	"Genre": "ประเถทการจอง",
-	"Category": "ประเถทการเช่า"
+	"Genre": "ประเภทการจอง",
+	"Category": "ประเภทการเช่า",
+	"Filter": "ตัวกรอง"
 }
