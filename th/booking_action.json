@@ -6,5 +6,7 @@
 	"Update booking customer success": "แก้ไขข้อมูลลูกค้าสำเร็จ",
 	"Update booking pricing success": "แก้ไขราคาสำเร็จ",
 	"Confirm to change payment to refunded": "เปลี่ยนสถานะการชำระเงิน เป็นคืนเงินแล้ว",
-	"Confirm to change payment to paid": "เปลี่ยนสถานะการชำระเงิน เป็นชำระเงินแล้ว"
+	"Confirm to change payment to paid": "เปลี่ยนสถานะการชำระเงิน เป็นชำระเงินแล้ว",
+	"booking_begin and booking_end same date and time": "โปรดตรวจสอบวันและเวลารับ-คืนรถ ระยะเวลาการเช่าจำเป็นต้องมากกว่า 4 ชั่วโมง",
+	"booking on the same date must be 4 hours or more apart": "โปรดตรวจสอบวันและเวลารับ-คืนรถ ระยะเวลาการเช่าจำเป็นต้องมากกว่า 4 ชั่วโมง"
 }

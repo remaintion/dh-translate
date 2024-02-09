@@ -6,5 +6,7 @@
 	"Update booking customer success": "Update booking customer success",
 	"Update booking pricing success": "Update booking pricing success",
 	"Confirm to change payment to refunded": "Confirm to change payment to refunded",
-	"Confirm to change payment to paid": "Confirm to change payment to paid"
+	"Confirm to change payment to paid": "Confirm to change payment to paid",
+	"booking_begin and booking_end same date and time": "Booking begin and Booking end same date and time",
+	"booking on the same date must be 4 hours or more apart": "Booking on the same date must be 4 hours or more apart"
 }
