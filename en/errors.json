@@ -17,5 +17,6 @@
 	"branch operation when pickup or return is not found": "Branch operation is not found on pickup or return",
 	"Duplicated email": "Duplicated email",
 	"pricing group not found": "Pricing group not found",
-	"booking begin is before current date and time": "Booking begin is before current date and time"
+	"booking begin is before current date and time": "Booking begin is before current date and time",
+	"no package available": "No package available"
 }

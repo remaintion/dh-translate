@@ -128,5 +128,8 @@
 			"fri": "ศุกร์",
 			"sat": "เสาร์"
 		}
-	}
+	},
+	"Please select dealership": "Please select dealership",
+	"Please select branch": "Please select branch",
+	"Please select package": "Please select package"
 }

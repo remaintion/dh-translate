@@ -17,5 +17,6 @@
 	"branch operation when pickup or return is not found": "ไม่พบเวลาทำการของสาขาตอนรับรถหรือคืนรถวันในช่วงเวลาที่เลือก",
 	"Duplicated email": "อีเมลนี้มีในระบบแล้ว",
 	"pricing group not found": "ไม่พบรูปแบบราคา",
-	"booking begin is before current date and time": "คุณกำลังสร้างการจองย้อนหลัง"
+	"booking begin is before current date and time": "คุณกำลังสร้างการจองย้อนหลัง",
+	"no package available": "ไม่พบแพ็คเกจที่เลือก"
 }

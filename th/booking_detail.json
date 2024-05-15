@@ -131,5 +131,8 @@
 			"fri": "ศุกร์",
 			"sat": "เสาร์"
 		}
-	}
+	},
+	"Please select dealership": "โปรดเลือกร้าน",
+	"Please select branch": "โปรดเลือกสาขา",
+	"Please select package": "โปรดเลือกแพ็กเกจ"
 }
