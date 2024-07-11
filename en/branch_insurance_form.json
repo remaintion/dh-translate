@@ -5,6 +5,7 @@
 	"Status": "Status",
 	"Default": "Default",
 	"Name": "Name",
+  "Name (English)": "Name (English)",
 	"Price": "Price",
 	"Option": "Insurance Coverage",
 	"Set as default": "Set as Default",
