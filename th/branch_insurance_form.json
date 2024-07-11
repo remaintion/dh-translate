@@ -10,5 +10,6 @@
   "Set as default": "ตั้งเป็นค่าเริ่มต้น",
   "Please fill insurance name": "กรุณากรอกชื่อประกันภัย",
   "Please select insurance options": "กรุณาเลือกประเภทความคุ้มครอง",
-  "Description": "รายละเอียดเพิ่มเติม"
+  "Description": "รายละเอียดเพิ่มเติม",
+  "Description (English)": "รายละเอียดเพิ่มเติม (ภาษาอังกฤษ)"
 }
