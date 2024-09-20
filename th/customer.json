@@ -34,5 +34,6 @@
 	"Total Bookings": "การเช่าทั้งหมดที่เคยเช่าในระบบ",
 	"Total Reject Bookings": "ถูกบริษัทรถเช่าปฏิเสธการเช่า",
 	"Total Bookings with Dealer": "จำนวนครั้งการเช่ากับบริษัทนี้",
-	"Bookings with dealer": "การเช่ากับบริษัทนี้"
+	"Bookings with dealer": "การเช่ากับบริษัทนี้",
+	"Email valid": "กรุณากรอกอีเมลให้ถูกต้อง"
 }
