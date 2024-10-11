@@ -135,5 +135,25 @@
 	},
 	"Please select dealership": "โปรดเลือกร้าน",
 	"Please select branch": "โปรดเลือกสาขา",
-	"Please select package": "โปรดเลือกแพ็กเกจ"
+	"Please select package": "โปรดเลือกแพ็กเกจ",
+	"invoice_edit": {
+		"edit invoice info": "แก้ไขข้อมูลใบกำกับภาษี",
+		"name": "ชื่อ",
+		"Please field name": "กรุณากรอกชื่อ",
+		"type": "ประเภท",
+		"Please select type": "กรุณาเลือกประเภท",
+		"branch number": "เลขที่ของสาขา",
+		"Please field branch number": "กรุณากรอกเลขที่ของสาขา",
+		"tax id": "เลขประจำตัวผู้เสียภาษีอากร",
+		"Please field tax id": "กรุณากรอกเลขประจำตัวผู้เสียภาษีอากร",
+		"address": "ที่อยู่",
+		"Please field address": "กรุณากรอกที่อยู่",
+		"postal code": "รหัสไปรษณีย์",
+		"Please field postal code": "กรุณากรอกรหัสไปรษณีย์",
+		"email": "อีเมล (ส่งเอกสารทางออนไลน์)",
+		"Please field email": "กรุณากรอกอีเมล (ส่งเอกสารทางออนไลน์)",
+		"branch": "สาขา",
+		"individual": "บุคคลธรรมดา",
+		"head_office": "สำนักงานใหญ่"
+	}
 }
