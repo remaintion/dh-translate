@@ -35,5 +35,7 @@
 	"Total Reject Bookings": "ถูกบริษัทรถเช่าปฏิเสธการเช่า",
 	"Total Bookings with Dealer": "จำนวนครั้งการเช่ากับบริษัทนี้",
 	"Bookings with dealer": "การเช่ากับบริษัทนี้",
-	"Email valid": "กรุณากรอกอีเมลให้ถูกต้อง"
+	"Email valid": "กรุณากรอกอีเมลให้ถูกต้อง",
+	"Search Customer": "ค้นหาลูกค้าด้วยเบอร์มือถือ",
+	"Enter Information": "หรือกรอกข้อมูล"
 }

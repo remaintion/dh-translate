@@ -16,5 +16,6 @@
 	"Please fill last name": "กรุณากรอกสกุล",
 	"Please select name title": "กรุณาเลือกคำนำหน้า",
 	"Please fill phone number": "กรุณากรอกเบอร์โทรศัพท์",
-	"Email valid": "กรุณากรอกอีเมลให้ถูกต้อง"
+	"Email valid": "กรุณากรอกอีเมลให้ถูกต้อง",
+	"Phone number valid": "กรุณากรอกเบอร์โทรศัพท์ให้ถูกต้อง"
 }
